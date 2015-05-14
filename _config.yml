@@ -6,12 +6,10 @@ inc:
   logo:         logo.png
 
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  company:      Open Source CU
+  url:          http://opensourcecu.github.io
+  facebook:     opensourcecu
+  twitter:      opensourcecu
 
   # Product Information
   product_link: http://incorporated.sendtoinc.com/
@@ -54,7 +52,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-pygments:    true
+highlighter:    true
 
 relative_permalinks: true
 
@@ -106,20 +104,5 @@ kramdown:
 redcloth:
   hard_breaks: true
 
-#
-# jekyll-assets: see more at https://github.com/ixti/jekyll-assets
-#
-assets:
-
-  dirname: assets
-  baseurl: /assets/
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/images
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: none
-  cache: false
-  gzip: [ text/css, application/javascript ]
-  debug: false
+sass:
+  style: :compressed
