@@ -1,8 +1,9 @@
-# A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# gem "rails"
 gem 'jekyll'
-gem 'guard'
-gem 'guard-jekyll-plus'
-gem 'guard-livereload'
+gem 'jekyll-assets'
+gem 'maruku'
+gem 'rake'
+gem 'sass'
+gem 'uglifier'
+gem 'github-pages'
