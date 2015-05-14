@@ -1,0 +1,111 @@
+---
+
+layout: legacy
+title: 'Open Source CU Podcast: Episode 7'
+excerpt: ''
+author:
+  name: Trey Reeme
+  twitter: creeme
+---
+
+<p>&#8220;What would you like to see most from credit unions in 2007?&#8221;</p>
+
+
+<embed src="http://odeo.com/flash/audio_player_gray.swf" quality="high" width="322" height="54" name="odeo_player_gray" align="middle" allowScriptAccess="always" wmode="transparent"  type="application/x-shockwave-flash" flashvars="type=audio&#38;id=9172003" pluginspage="http://www.macromedia.com/go/getflashplayer" /></embed><br /><a style="font-size: 9px; padding-left: 110px; color: #f39; letter-spacing: -1px; text-decoration: none" href="http://odeo.com/audio/9172003/view">powered by <strong><span class="caps">ODEO</span></strong></a>
+
+<p>Here&#8217;s the final episode in our series discussing the question, and in this third installment you&#8217;ll hear from:</p>
+
+
+<ul><li><a href="http://veritycu.blogspot.com">Shari Storm</a>, Chief Marketing Officer at <a href="http://www.veritycu.org">Verity Credit Union</a></li><li><a href="http://www.dougtrue.net">Doug True</a>, <span class="caps">CEO</span> of <a href="http://www.forumsolutions.com"><span class="caps">FORUM</span> Solutions</a></li><li><a href="http://www.netbanker.com">Jim Bruene</a>, Editor and Founder of <a href="http://www.onlinebankingreport.com/">Online Banking Report</a></li><li><a href="http://www.cues.org">Kevin Davies</a>, VP of Professional Development at <a href="http://www.cues.org"><span class="caps">CUES</span></a></li><li>and <a href="http://www.cuceo.com">Ben Rogers</a>, Editor of the <a href="http://www.cuceo.com/"><span class="caps">CEO</span> Report</a></li></ul>
+
+<p>After you give it a listen, leave a comment below or on our audio comments line at (206) 350-OSCU (6728).  You can subscribe in iTunes <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=192789928">here</a> or download the podcast <a href="http://media.libsyn.com/media/opensourcecu/OpenSourceCU_Podcast007.mp3">here</a>.</p>
+
+
+<h3>Here&#8217;s the transcript:</h3>
+
+
+<p><strong>Shari Storm</strong>: This is Shari Storm from sunny Seattle, calling from Verity Credit Union. What would I like to see in 2007? Well, three things:</p>
+
+
+<p>The first thing I&#8217;d like to see is credit unions becoming better at telling our story. If anybody asks, why should I join a credit union, everyone &#8211; from the oldest board member to the youngest teller &#8211; <span class="caps">AND</span> our members, should be able to answer that question &#8211;  with confidence, pride, a deep understanding of who we are and what we mean to people. This is going to require a great deal of soul searching on our part. I&#8217;m not sure most credit unions agree what we actually bring to the table. What role do we play in our communities? Why are we a better alternative? What does belonging to a credit union really mean for a member at the end of the day?</p>
+
+
+<p>The second thing I&#8217;d like to see is widespread innovation. I&#8217;m talking hardcore, i3, Blue Ocean, out of the box, what the heck innovation. As banks grow bigger it becomes harder for them to be nimble and creative. Now is our chance. Now is our chance to find those unexplored niches and really rise to the occasion. We can be innovative because of our size, not despite of it.  Innovation energizes and I think our industry could use a little energizing about now.</p>
+
+
+<p>The last thing I would like to see is credit unions captivating the attention of the young market. We have spent so many years courting the middle income, middle market. Our knuckles are bloody from going fists to cuffs with all other financial institutions. We&#8217;ve been competing on price and now we have a whole group of members who don&#8217;t get us and we are left scratching our heads over why our spread is so dismal. Young people are looking for someone to be open and honest with them; they are looking to belong to something worthwhile and good, they are looking to be trusted. These are all deep rooted credit union attributes. There is a natural partnership here but it is not one that will be easy to pull off. There are some pretty big hurdles &#8211; starting first with the age of the people leading credit unions. I read somewhere that the average age of a credit union board member is 103 (that is a joke &#8211; but we can&#8217;t deny the fact, that on average, our boards are old). Our CEOs near retirement and there has been very little turnover on our executive teams in the past few decades. We can&#8217;t rely on shining brochures or catchy tv commercials anymore. And we certainly won&#8217;t get young members by constantly complaining about how little they save. Who are we turning to for advice? Who gives us good consult when it comes to attracting young members? We can reach that market if we are open to listening to new voices in our industry.</p>
+
+
+<p>So, in closing, I guess I could summarize my hopes for 2007 as seeing credit unions articulate, innovate and captivate. And hey, that rhymes, so that&#8217;s always good.</p>
+
+
+<p><strong>Jim Bruene</strong>:  The first thing that comes to mind is the no-brainer strategy &#8211; to put much of the credit union website content or member communications into blog format with feeds.  I think this is an obvious next step for credit unions because they have done a wonderful job in the past in terms of building good educational messages and materials for members.  As 2007 and 2008 roll in, there&#8217;s going to be much demand from the member base to be able to receive that information in a feed and to see it in a blog format.  That&#8217;s the easy one.</p>
+
+
+<p>Some of the more challenging things &#8211; the more strategic things &#8211; I think credit unions could look at is the idea of person-to-person lending.  I think that really fits the credit union member base and where they are in the financial institution world.  I think that most credit unions in terms of lending to their member base, but there are still a lot of members who fall through the cracks in the traditional underwriting and I think they could use some of the ideas from the peer-to-peer lenders &#8211; Prosper and Zopa-type model &#8211; to handle some of the member loan applications &#8211; maybe put those out to the member base and see if they could find funding for some of the declined applications from other members.  I think that would be good for the community and would be good both for letting some members lend out and helping others who are new credits or having other problems.  I think that would be a great improvement for credit unions.</p>
+
+
+<p>Then the last thing that comes to mind is the area of credit bureau reporting and credit management.  I think there&#8217;s still a lot of misinformation and confusion in the American public about how important it is to monitor their credit bureau so I think credit unions can do a good job in not only educating the members but also bringing to them value-priced monitoring services and credit bureau access.  I think that those are still something that the credit union could offer at a break-even or perhaps earn extra revenue off of, and really help the members by offering a good credit monitoring service.</p>
+
+
+<p><strong>Doug True</strong>:  So here we go &#8211; top four things for credit unions in 2007. <em>Number One</em>: Robust new member gains.  If we see this happening, it means credit unions are doing things that are relevant in the eyes of consumers, which is a great thing given our hyper-competitive marketplace and the fact that we haven&#8217;t grown new members in several years at the rate that we would like.</p>
+
+
+<p><em>Number Two</em>:  Improvements to regulations that would allow credit unions the freedom they need to serve their members.  It&#8217;s been much ballyhooed about the conversions to banks and so forth and regulations seem to be the root of the problem and the conversions are somewhat of a symptom, so some improvement in regulations would definitely help in 2007.</p>
+
+
+<p><em>Number Three</em>:  More credit union collaboration and potentially as a result of this collaboration more credit unions doing cool stuff.  This cools stuff makes my first item happen.</p>
+
+
+<p><em>Number Four</em>:  Better health.  Yes, when you talk to friends and families about 2007 and what you&#8217;re wishing for, this is probably the number one answer.  Seriously &#8211; better hearing and vision.  Better hearing, you ask?  Yes &#8211; listening to your members.  What do they want from you?  Then deliver on it.  Better vision?  Yes &#8211; many times members don&#8217;t know or can&#8217;t articulate what would improve their financial and overall lives.  But by watching our members we should be able to see some things that we can do for them that we aren&#8217;t doing now.</p>
+
+
+<p><strong>Kevin Davies:</strong>  Maybe it&#8217;s because I&#8217;m new to the credit union industry, perhaps somewhat naive, regardless, it&#8217;s my hope that credit unions will continue to leverage their unique collective spirit of cooperation.  After all this was the genesis of credit unions and some would say in part what maintains their tax-exempt status today.  I believe the cooperative model remains a viable comparative advantage over banks.</p>
+
+
+<p>I hear a lot about asset size, favorable rates, the number of products and services offered, and the quality of service, but all these: are they critical differentiators for credit unions?  Although all very important to the survival of the institution, these activities can easily be replicated.  I believe it is much more important to be responsive to the needs of the existing as well as the potential members, or should I say &#8220;owners.&#8221;</p>
+
+
+<p>Credit unions have a distinct strategic advantage in being able to make decisions now for membership, which affects their future without having to consider the quarterly effects on shareholder value.  What would it mean to members to be able to join any credit union across the land and receive the same friendly, professional, keep-you-coming-back-for-more-type service every time.  How about financial records that are portable or seamless, transparent, full service that is available whenever, wherever members happen to be?</p>
+
+
+<p>We need a clear, commonly understood branding message for credit unions that is recognized nationally.  Something similar to the <span class="caps">ACE</span> Hardware jingle &#8211; actually this is being done right now.  There are pockets of partnerships being formed all across credit union land.  For example, mainstream credit unions join community-development credit unions to serve the underserved in terms of financial literacy and shared-branching programs to name just a few.  Multi-owned CUSOs are forming to offer unmet member services like indirect lending, investments, insurance solutions, remote deposit, or to improve operational efficiencies.</p>
+
+
+<p>Credit unions do an exceptional job learning from one another by sharing information, ideas, challenges, and even redistributing scarce resources in order to find solutions.  But wouldn&#8217;t it be great if all credit unions starting right now would decide to extend a people-helping-people hand to include credit unions helping credit unions.  After all, we&#8217;re all in this together for a common cause.  We&#8217;re all serving our credit union members.</p>
+
+
+<p>This is why programs like &#8220;Always a Member,&#8221; developed by an i3 group at Filene, makes perfect sense to me.  It&#8217;s basically a locator program which attempts to make the transition from one credit union to another almost seamless for members.  Why not use this same model to match up key credit union personnel to the ideal job so that the best and the brightest remain in the industry?  After all, this is what a family does, right?  It takes care of itself.</p>
+
+
+<p>In closing, I&#8217;d like to reemphasize my wish for credit unions in this competitive environment to maintain their cooperative spirit and do what they do best only on a much grander national scale.  I&#8217;ve heard it said that no one is as smart as everyone.  I say no one credit union is as smart or as great as every credit union.</p>
+
+
+<p><strong>Ben Rogers</strong>: There are two things I think credit unions should do in 2007: First, better use the money they already have, and, second, keep things powerfully simple.</p>
+
+
+<p>Use the money you have.  To be considered well-capitalized, a credit union has to maintain a seven percent net worth ratio. It&#8217;s the old rainy day fund you build up over the years. But most credit unions left 7 percent in the dust years ago. Nationally, credit unions have eleven and a half percent net worth. A little napkin math shows that in that four and a half percentage points the industry is hoarding $32 billion dollars more than it has to. Taste that number again: $32 billion dollars. Credit unions could pay cash for a company the size of BestBuy or Starbucks and still keep a few billion in change.</p>
+
+
+<p>Now nobody can write a golden check on the entire stash. Instead, CEOs and boards are often sitting on $20,000, $200,000 or even $2 million that could be better used in the marketplace than in the vault.</p>
+
+
+<p>I know that <span class="caps">NCUA</span> examiners hate to see net worth go down &#8211; it gives them the shakes &#8211; but <span class="caps">NCUA</span> examiners don&#8217;t serve the members, they serve the insurance fund. So pay better dividends, launch new programs or, heck, lay new carpeting &#8211; just use that net worth wisely. Credit unions have to take a hard look at that number this year. If it&#8217;s above ten percent at your shop, think about bringing it down. If it&#8217;s around fifteen percent, do some serious soul-searching. If it&#8217;s anywhere close to twenty percent &#8211; and believe me there are some out there higher than that &#8211; you are failing your members.</p>
+
+
+<p>Now the second point: Keep it simple.  We just did a story about Whitefish Credit Union in northwestern Montana, and I got an inkling of how powerfully simple credit unions can be. When I first went to call Charlie Abell, one of our subscribers, I did as I usually do and looked for Whitefish&#8217;s Web site. Couldn&#8217;t find it. Double checked the <span class="caps">NCUA</span>&#8217;s information. $780 million dollar credit union &#8211; check. I&#8217;d spelled “whitefish” correctly in Google &#8211; check. But still no Web page.</p>
+
+
+<p>When I finally talked to Charlie, it all became clear. The credit union used to have a Web site, but it cost too much. They don&#8217;t offer checking accounts because they don&#8217;t like fees … and it would cost too much. Certificates of deposit? The marketing would cost too much. You get the idea.</p>
+
+
+<p>Charlie actually gets requests for checking accounts at every annual meeting, but he always says the same thing. We don&#8217;t want to charge fees, and we don&#8217;t want to reduce our dividend rate on shares. Now get this, Whitefish credit union pays almost 5% on its regular share account &#8211; this is not a CD &#8211; this is a regular share account. And you can get a loan from Whitefish for just about anything &#8211; from $50 dollars to tide you over until payday, to $7 million dollars to build a new wing at the hospital. That&#8217;s all on the back of regular share accounts and relentless management.</p>
+
+
+<p>Whitefish Credit Union is not naively simple &#8211; Charlie&#8217;s a smart guy. It&#8217;s not helplessly simple &#8211; the credit union has a boatload of capital and resources. In fact it brought in almost $90 million in deposits last year.</p>
+
+
+<p>No, Whitefish is powerfully simple. The people in northwestern Montana know that Whitefish credit union pays great dividends, employs great people and sells great loans, and they&#8217;re willing to bring their business to an institution like that &#8211; and get their checking accounts somewhere else.</p>
+
+
+<p>For many credit unions, it&#8217;s too late to follow Charlie&#8217;s simple model, but for those that are small and casting about for strategies, make 2007 the year you focus on being powerfully simple.</p>
