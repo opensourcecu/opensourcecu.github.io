@@ -52,7 +52,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-highlighter:    true
+highlighter: pygments
 
 relative_permalinks: true
 
