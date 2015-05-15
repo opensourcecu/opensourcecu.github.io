@@ -4,6 +4,7 @@ layout: post
 title: 'Four days in Dallas: CUES Nexus, Geek Dinner, Tornadoes.'
 excerpt: 'I wasn’t planning on making a post about CUES Nexus until tomorrow as my inbox is unmanageable and I’m just plain exhausted. But thanks to flight delays I’ve had sufficient time to decompress, and I want to get some things out.'
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
