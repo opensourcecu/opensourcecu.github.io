@@ -1,0 +1,92 @@
+@import "./Icon";
+
+$--BlogCover-textColor: #fff;
+$--BlogCover-fontWeight: 600;
+
+.BlogCover {
+
+  background: $light-gray;
+
+  background-color: #111;
+  background-size: cover;
+
+  max-height: 460px;
+  max-width: 100%;
+
+  overflow: hidden;
+
+  position: relative;
+
+  &--main {
+    height: 320px;
+  }
+
+  &-container {
+    margin: 0 auto;
+    max-width: 820px;
+  }
+
+  &-wrapper {
+
+    background-color: rgba(0,0,0,0.4);
+    background-position: center center;
+
+    @include background-image(linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%));
+
+    padding: 100px 0;
+
+    @include position(absolute, 0 0 0 0);
+
+    text-align: center;
+
+  }
+
+  &-title {
+    color: $--BlogCover-textColor;
+    font-size: 2.7em;
+    font-weight: $--BlogCover-fontWeight;
+    line-height: 1.4em;
+    margin: 0;
+  }
+
+  &-subtitle {
+    color: $--BlogCover-textColor;
+    font-weight: $--BlogCover-fontWeight;
+    font-size: 1.3em;
+    margin: 0;
+  }
+
+  &-socialLink {
+    border: 2px solid $--BlogCover-textColor;
+    border-radius: 42px;
+    box-sizing: border-box;
+    color: $--BlogCover-textColor;
+    display: inline-block;
+    height: 36px;
+    line-height: 0;
+    margin: 1.5em 1em 0 0;
+    padding: 10px 0;
+    width: 36px;
+    text-align: center;
+
+    &:hover {
+
+      background: #fff;
+
+      .Icon--facebook {
+        @extend .Icon--facebook--black;
+      }
+
+      .Icon--rss {
+        @extend .Icon--rss--black;
+      }
+
+      .Icon--twitter {
+        @extend .Icon--twitter--black;
+      }
+
+    }
+
+  }
+
+}
