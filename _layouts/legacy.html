@@ -53,7 +53,7 @@ layout: base
 
               <div class="comment-author">
                 <strong>{{ comment.author }}</strong> &mdash;
-                <time class="meta" pubdate datetime="{{ comment.date | date: "%Y-%d-%B" }}" title="{{ comment.date | date: "%B %d, %Y" }}">{{ comment.date | date: "%B %e, %Y" }}</time>:
+                <time class="meta" pubdate datetime="{{ comment.date | date: "%Y-%d-%B" }}" title="{{ comment.date | date: "%B %d, %Y" }}">{{ comment.date | date: "%B %e, %Y" }}</time>
               </div>
 
               <div class="comment-body">{{ comment.body | markdownify }}</div>
