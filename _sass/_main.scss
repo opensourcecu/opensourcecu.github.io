@@ -1,8 +1,16 @@
 @import "bourbon/bourbon";
 @import "base/base";
+@import "neat/neat";
 
 @import "components/body";
+@import "components/syntax";
 
+@import "components/Article";
+@import "components/AuthorSummary";
 @import "components/BlogCover";
+@import "components/Button";
 @import "components/Icon";
+@import "components/Page";
+@import "components/SiteFooter";
 @import "components/SiteNav";
+@import "components/TypeSystem";

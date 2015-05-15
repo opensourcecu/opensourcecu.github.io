@@ -1,0 +1,80 @@
+.SiteFooter {
+
+  $--SocialFooter-textColor: #aaa;
+
+  background: #f3f3f3;
+
+  padding: 30px;
+  margin-top: 30px;
+
+  color: $--SocialFooter-textColor;
+
+  &-container {
+    @include outer-container;
+  }
+
+  &-description {
+
+    @include span-columns(5);
+    @include shift(1);
+
+    @include media($mobile) {
+      text-align: center;
+      @include span-columns(8);
+      @include shift(0);
+    }
+
+    a {
+      color: $--SocialFooter-textColor;
+      &:hover {
+        color: $action-color;
+      }
+    }
+
+  }
+
+  &-social {
+
+    @include span-columns(5);
+    text-align: right;
+
+    @include media($mobile) {
+      text-align: center;
+      @include span-columns(8);
+    }
+
+    &-link {
+
+      border: 2px solid #000;
+      border-radius: 42px;
+      box-sizing: border-box;
+      color: #000;
+      display: inline-block;
+      height: 36px;
+      line-height: 0;
+      margin: 0 1em 0 0;
+      padding: 10px 0;
+      width: 36px;
+      text-align: center;
+
+      opacity: 0.3;
+      transition: opacity 0.1s linear;
+
+      @include media($medium) {
+        margin: 1em 0.75em 0 0;
+      }
+
+      &:hover {
+        opacity: 1;
+      }
+
+    }
+
+  }
+
+  &-meta {
+
+
+  }
+
+}

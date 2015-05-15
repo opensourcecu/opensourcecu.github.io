@@ -1,0 +1,40 @@
+{% if page.comments %}
+
+<section class="LegacyComments">
+
+  <h1 class="LegacyComments-title">Comments</h1>
+
+  <div class="LegacyComment-list">
+
+    {% for comment in page.comments %}
+
+    <div class="LegacyComment TypeSystem">
+
+      <div class="TypeSystem-byline">
+
+        <span class="TypeSystem-author">
+          {{ comment.author }}
+        </span>
+
+        <span class="TypeSystem-date">
+
+          &mdash;
+          <time class="meta" pubdate datetime="{{ comment.date | date: "%Y-%d-%B" }}" title="{{ comment.date | date: "%B %d, %Y" }}">{{ comment.date | date: "%B %e, %Y" }}</time>
+
+        </span>
+
+      </div>
+
+      <div class="LegacyComment-body">{{ comment.body | markdownify }}</div>
+
+      <hr />
+
+    </div>
+
+    {% endfor %}
+
+  </div>
+
+</section>
+
+{% endif %}

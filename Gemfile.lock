@@ -136,6 +136,9 @@ GEM
     mini_portile (0.6.2)
     minitest (5.6.1)
     multi_json (1.11.0)
+    neat (1.7.2)
+      bourbon (>= 4.0)
+      sass (>= 3.3)
     nenv (0.2.0)
     net-dns (0.8.0)
     nokogiri (1.6.6.2)
@@ -202,6 +205,7 @@ DEPENDENCIES
   jekyll
   jekyll-assets
   maruku
+  neat
   rake
   sass
   uglifier

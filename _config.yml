@@ -1,14 +1,13 @@
 inc:
   # Blog Information
   title:        "Open Source CU"
-  subtitle:     "Stop. Collaborate. Listen."
+  subtitle:     "Idea sharing for credit unions and their advocates"
   cover_image:  blog-cover.jpg
   logo:         logo.png
 
   # Company information
   company:      Open Source CU
   url:          http://opensourcecu.github.io
-  facebook:     opensourcecu
   twitter:      opensourcecu
 
   # Comments
@@ -33,7 +32,6 @@ inc:
 
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://incorporated.sendtoinc.com
 source:      .
 destination: ./_site
 plugins:     ./_plugins

@@ -1,0 +1,33 @@
+.ArticleIndex {
+
+  margin-top: 60px;
+
+  &-container {
+    @include outer-container;
+  }
+
+  &-divider {
+    margin: 2em 0;
+  }
+
+  &-pagination {
+    text-align: center;
+  }
+
+}
+
+.LegacyComments {
+
+  &-title {
+    font-size: 2em;
+  }
+
+}
+
+.LegacyComment {
+
+  &-body {
+    margin-left: 1em;
+  }
+
+}

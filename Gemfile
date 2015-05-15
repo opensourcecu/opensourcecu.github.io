@@ -9,6 +9,7 @@ gem 'uglifier'
 gem 'github-pages'
 
 gem 'bourbon'
+gem 'neat'
 
 gem 'guard'
 gem 'guard-jekyll-plus'

@@ -28,34 +28,67 @@ layout: base
 
 </div>
 
+<article class="ArticleIndex">
 
-<article class="container">
-  {% for post in paginator.posts %}
-  {% unless post.draft %}
-  <section class="index">
-    <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
-    <div>
-      <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-      <div class="meta">
-        Written By <address>{{ post.author.name }}</address> &mdash;
-        <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+  <div class="ArticleIndex-container">
+
+    {% for post in paginator.posts %}
+    {% unless post.draft %}
+
+    <section class="Article">
+
+      <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
+
+      <div class="Article-container TypeSystem">
+
+        <h1 class="Article-title">
+          <a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a>
+        </h1>
+
+        <p class="Article-excerpt TypeSystem-excerpt">{{ post.excerpt }}</p>
+
+        <div class="TypeSystem-meta">
+
+          <span class="TypeSystem-author">{{ post.author.name }}</span>
+
+          <span class="TypeSystem-date">
+
+            &mdash;
+
+            <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">
+              {{ post.date | date: "%B %d, %Y" }}
+            </time>
+
+          </span>
+
+        </div>
+
       </div>
-    </div>
-    <hr>
-  </section>
-  {% endunless %}
-  {% endfor %}
-  <section class="pagination" style="text-align:center">
+
+      <hr class="ArticleIndex-divider" />
+
+    </section>
+
+
+
+    {% endunless %}
+    {% endfor %}
+
+  </div>
+
+  <section class="ArticleIndex-pagination"
+    >
     {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-    <a href="/" class="btn btn-outline">‹ Newer</a>
+    <a href="/" class="Button Button--outlined">‹ Newer</a>
     {% else %}
-    <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+    <a href="/page{{ paginator.previous_page }}" class="Button Button--outlined">‹ Newer</a>
     {% endif %}
     {% endif %}
     {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+    <a href="/page{{ paginator.next_page }}" class="Button Button--outlined">Older ›</a>
     {% endif %}
+
   </section>
+
 </article>

@@ -19,6 +19,9 @@ $--BlogCover-fontWeight: 600;
 
   &--main {
     height: 320px;
+    @include media($medium) {
+      height: 200px;
+    }
   }
 
   &-container {
@@ -39,14 +42,24 @@ $--BlogCover-fontWeight: 600;
 
     text-align: center;
 
+    @include media($medium) {
+      padding: 60px 0 0;
+    }
+
   }
 
   &-title {
+
     color: $--BlogCover-textColor;
     font-size: 2.7em;
     font-weight: $--BlogCover-fontWeight;
     line-height: 1.4em;
     margin: 0;
+
+    @include media($medium) {
+      font-size: 1.5em;
+    }
+
   }
 
   &-subtitle {
@@ -54,6 +67,11 @@ $--BlogCover-fontWeight: 600;
     font-weight: $--BlogCover-fontWeight;
     font-size: 1.3em;
     margin: 0;
+
+    @include media($medium) {
+      font-size: 1em;
+    }
+
   }
 
   &-socialLink {
@@ -68,6 +86,10 @@ $--BlogCover-fontWeight: 600;
     padding: 10px 0;
     width: 36px;
     text-align: center;
+
+    @include media($medium) {
+      margin: 1em 0.75em 0 0;
+    }
 
     &:hover {
 
@@ -87,6 +109,17 @@ $--BlogCover-fontWeight: 600;
 
     }
 
+  }
+
+  &-imageContainer {
+    max-height: 480px;
+    line-height: 0;
+  }
+
+  &-image {
+    width: 100%;
+    top: 0;
+    position:relative;
   }
 
 }

@@ -2,13 +2,26 @@ var moment = require('moment');
 var fs = require('fs');
 var path = require('path');
 var yaml = require('js-yaml');
+var _ = require('lodash');
 
 var outPath = path.join(__dirname, '..', '..', '..', '_posts');
 
-var twitterAccounts = {
-  "matt@trabian.com": "trabianmatt",
-  "trey@trabian.com": "creeme",
-  "brent@trabian.com": "thehabdash"
+var authors = {
+  "matt@trabian.com": {
+    twitter: "trabianmatt",
+    bio: "Founder and CEO of Trabian",
+    image: "authors/matt.png"
+  },
+  "trey@trabian.com": {
+    twitter: "creeme",
+    bio: "Cofounder and COO of Trabian",
+    image: "authors/trey.png"
+  },
+  "brent@trabian.com": {
+    twitter: "thehabdash",
+    image: "authors/brent.png",
+    bio: "Artist, Designer, Educator"
+  }
 };
 
 var cleanBody = function(body) {
@@ -25,14 +38,16 @@ exports.import = function(article, comments) {
 
   var permalink = datestamp + "-" + article.permalink;
 
-  var headerData =     {
-    layout: 'legacy',
+  var author = _.extend({
+    name: article.name
+  }, authors[article.email] || {});
+
+  var headerData = {
+    layout: 'post',
     title: article.title,
     excerpt: '',
-    author: {
-      name: article.name,
-      twitter: twitterAccounts[article.email]
-    }
+    legacy: true,
+    author: author
   };
 
   if (comments && comments.length) {

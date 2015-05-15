@@ -1,0 +1,31 @@
+.AuthorSummary {
+
+  border: 1px solid $light-gray;
+  border-width: 1px 0;
+
+  padding: 1.5em 0;
+  margin: 1.5em 0;
+
+  font-style: italic;
+
+  &-image {
+    border-radius: 54px;
+    width: 64px;
+    height: 64px;
+    margin: 0 20px 0 0;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  &-content {
+    display: inline-block;
+    padding-top: 8px;
+    font-family: "Roboto Slab", serif;
+    font-weight: 300;
+  }
+
+  &-name {
+    font-weight: 600;
+  }
+
+}

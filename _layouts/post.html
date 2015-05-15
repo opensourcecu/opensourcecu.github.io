@@ -2,42 +2,76 @@
 layout: base
 ---
 {% if page.cover_image %}
-<div class="article-cover">
-    <div>
-        <img src="/images/{{ page.cover_image }}" class="image">
-    </div>
+<div class="BlogCover BlogCover--article">
+  <div class="BlogCover-imageContainer">
+    <img src="/images/{{ page.cover_image }}" class="BlogCover-image">
+  </div>
 </div>
 {% endif %}
-<article>
 
-    <div class="container">
-        <header>
-            <div class="meta">
-                By <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a></address> &mdash;
-                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
-            </div>
-            <h1 class="title">{{ page.title }}</h1>
-            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-        </header>
+<div class="Page">
 
-        <section>
-            {{ content }}
-        </section>
+  <article class="Article Page-content">
 
-        <footer>
-            <address>
-               {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
-                <p>Written by <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
-                <span class="muted">{{ page.author.bio }}</span>
-                </p>
-            </address>
+    <div class="Article-container TypeSystem">
 
-        </footer>
+      <header class="Article-header">
 
-        {% if site.inc.disqus.shortname %}
-        <section>
-            {% include _disqus.html %}
-        </section>
+        <div class="TypeSystem-meta">
+
+          <span class="TypeSystem-author">
+            <a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a>
+          </span>
+
+          <span class="TypeSystem-date">
+
+            &mdash;
+
+            <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+
+          </span>
+
+        </div>
+
+        <h1 class="Article-title">{{ page.title }}</h1>
+
+        {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer class="AuthorSummary">
+
+        {% if page.author.image %}
+        <img src="/images/{{ page.author.image }}" class="AuthorSummary-image">
         {% endif %}
+
+        <div class="AuthorSummary-content">
+
+          <span class="AuthorSummary-name"><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></span><br>
+
+          <span class="AuthorSummary-bio">{{ page.author.bio }}</span>
+
+        </div>
+
+      </footer>
+
     </div>
-</article>
+
+    {% if page.legacy %}
+
+    {% include _legacy-comments.html %}
+
+    {% else %}
+    {% if site.inc.disqus.shortname %}
+    <section>
+      {% include _disqus.html %}
+    </section>
+    {% endif %}
+    {% endif %}
+
+  </article>
+</div>
