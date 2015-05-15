@@ -19,9 +19,11 @@ layout: base
       {% if site.inc.facebook %}
       <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank" class="BlogCover-socialLink"><i class="Icon Icon--facebook"></i></a>
       {% endif %}
+      {% if site.inc.rss %}
       <a href="/feed.xml" title="RSS Feed" class="BlogCover-socialLink">
         <i class="Icon Icon--rss"></i>
       </a>
+      {% endif %}
 
     </div>
   </section>
@@ -41,7 +43,7 @@ layout: base
 
       <div class="Article-container TypeSystem">
 
-        <h1 class="Article-title">
+        <h1 class="Article-title Article-title--index">
           <a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a>
         </h1>
 

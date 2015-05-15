@@ -18,20 +18,18 @@
 
 .Article {
 
+  @include span-columns(8);
+  @include shift(2);
 
-
-
-
+  @include media($mobile) {
     @include span-columns(8);
-    @include shift(2);
+    @include shift(0);
+    padding: 0 1em;
+  }
 
-    @include media($mobile) {
-      @include span-columns(8);
-      @include shift(0);
-      padding: 0 1em;
-    }
-
-
+  &-title--index {
+    font-size: 1.8em !important;
+  }
 
 }
 
