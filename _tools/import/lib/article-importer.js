@@ -13,11 +13,11 @@ var twitterAccounts = {
 
 var cleanBody = function(body) {
 
-  return body.replace(/^\t/gm, '').replace('http://cu.trabian.com/trabian/opensourcecu', '/images/legacy', ['g']);
+  return body.replace(/^\s*/gm, '').replace('http://cu.trabian.com/trabian/opensourcecu', '/images/legacy', ['g']);
 
 };
 
-exports.import = function(article) {
+exports.import = function(article, comments) {
 
   var postedDate = moment(article.created_at);
 
@@ -25,7 +25,7 @@ exports.import = function(article) {
 
   var permalink = datestamp + "-" + article.permalink;
 
-  var header = yaml.dump({
+  var headerData =     {
     layout: 'legacy',
     title: article.title,
     excerpt: '',
@@ -33,7 +33,13 @@ exports.import = function(article) {
       name: article.name,
       twitter: twitterAccounts[article.email]
     }
-  });
+  };
+
+  if (comments && comments.length) {
+    headerData.comments = comments;
+  }
+
+  var header = yaml.dump(headerData);
 
   var article = "---\n\n" + header + "---\n\n" + cleanBody(article.body_html);
 

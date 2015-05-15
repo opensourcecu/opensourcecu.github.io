@@ -12,7 +12,6 @@ author:
 blogging</a>
 in this month&#8217;s <a href='http://www.cumanagement.com/'><span class="caps">CUES</span> Management
 Magazine</a>.  Jamie Swedberg writes,</p>
-
 <blockquote><p>You might say that the difference between blogs and
 advertisements is a little like the difference between credit unions
 and banks. Blogs and ads both disseminate information with a
@@ -23,14 +22,12 @@ press releases and banks are engineered to make a profit.</p>
 pioneers are discovering that they&#8217;re an excellent fit for the
 movement: a natural, largely unaffected way to share information and
 build community.</p></blockquote>
-
-    <p>We&#8217;re flattered at being mentioned in the article, and we couldn&#8217;t
+<p>We&#8217;re flattered at being mentioned in the article, and we couldn&#8217;t
 agree more with Jamie&#8217;s assessment of blogging for CUs -</p>
-
-    <blockquote>
-        <p>Blogs are compelling; it&#8217;s hard to read a blog without wanting one
+<blockquote>
+<p>Blogs are compelling; it&#8217;s hard to read a blog without wanting one
 of your own. Perhaps soon a few more of Reeme&#8217;s readers will follow
 suit (Reeme has offered a free blog to the first <span class='caps'><span class="caps">CU CEO</span></span> who blogs with
 members), and the CU movement will begin to take full advantage of
 this new communication medium.</p>
-    </blockquote>
+</blockquote>

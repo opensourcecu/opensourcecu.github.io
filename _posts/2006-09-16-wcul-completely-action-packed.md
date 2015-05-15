@@ -6,6 +6,13 @@ excerpt: ''
 author:
   name: Brent Dixon
   twitter: thehabdash
+comments:
+  - author: Ron Bensley
+    body: 'Brent and Trey: It was extremely cool to chat with both of you at WCUL. The overall energy of the event was rather astounding. '
+    date: 2006-09-18T00:15:40.000Z
+  - author: Colin
+    body: 'This sounds fascinating, and looking forward to hearing more.  Its so cool to hear the word energy about financial services, and we all have something to learn from the CU movement.'
+    date: 2006-09-18T01:17:21.000Z
 ---
 
 <p>Trey and I are back in Texas now, and our time spent with the Washington Credit Union League was&nbsp;refreshing and exciting. We haven&#8217;t posted many articles yet because honestly, it never stopped. While there, we had the choice to either (A) lock ourselves away and write,&nbsp;or (B) spend time with some really captivating people in the credit union&nbsp;industry/movement (whichever makes you happiest).&nbsp;</p>

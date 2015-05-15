@@ -39,5 +39,36 @@ layout: base
 
         </footer>
 
+        {% if page.comments %}
+
+        <section>
+
+          <h3>Comments</h3>
+
+          <div class="comment-list">
+
+            {% for comment in page.comments %}
+
+            <div class="comment">
+
+              <div class="comment-author">
+                <strong>{{ comment.author }}</strong> &mdash;
+                <time class="meta" pubdate datetime="{{ comment.date | date: "%Y-%d-%B" }}" title="{{ comment.date | date: "%B %d, %Y" }}">{{ comment.date | date: "%B %e, %Y" }}</time>:
+              </div>
+
+              <div class="comment-body">{{ comment.body | markdownify }}</div>
+
+              <hr />
+
+            </div>
+
+            {% endfor %}
+
+          </div>
+
+        </section>
+
+        {% endif %}
+
     </div>
 </article>

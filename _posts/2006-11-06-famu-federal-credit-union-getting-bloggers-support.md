@@ -6,6 +6,39 @@ excerpt: ''
 author:
   name: Trey Reeme
   twitter: creeme
+comments:
+  - author: Jessica - www.llcu.org
+    body: "Hey, can you do a follow up with this later and let us know the outcome? Personally I think they need to leave the name alone, but that's just my opinion. I am interested in how it turns out though. :)"
+    date: 2006-11-08T15:16:34.000Z
+  - author: Trey Reeme
+    body: "Jessica, We'll certainly keep our eyes on it.  Across the industry, many credit unions are dealing with the same name change issue.  \n\nI lean toward supporting the company (in this case the university) when a credit union has grown to either include other SEGs and especially when it has broadened its FOM to include the community. For FAMU FCU, their FOM doesn't include the community, but it has expanded beyond the university."
+    date: 2006-11-08T20:01:09.000Z
+  - author: Michael Wagner
+    body: >-
+      Question Trey - are calls for name changes like this common these days?
+
+
+
+      Veridian here in Iowa use to be the John Deere Credit Union but had to
+      change their name.
+
+
+
+      Just asking because I figure you know.
+
+
+
+      Always a "makes me smarter" kind of read here at Open Source CU!
+
+
+
+      Keep creating...it freaks people out,
+
+      Mike
+    date: 2006-11-09T04:26:18.000Z
+  - author: Trey Reeme
+    body: "Great question, Mike!  It's actually pretty common.  \n\nAccording to Callahan & Associates, last month the following name changes occurred:\n\n* Albertsons Employees Federal Credit Union<br /> became *TruGrocer Federal Credit Union*\n* Bell Com Credit Union<br /> became *Option 1 Credit Union* \n* Power 1 Credit Union<br /> became *Power Financial Credit Union*\n* W G M Federal Credit Union<br /> became *Grant County Community Federal Credit Union*\n* Kitsap County Public Employees Credit Union<br /> became *Connection Credit Union*\n* Steel Works Community Federal Credit Union<br /> became *First Choice America Community Federal Credit Union* \n* SUNY-Plattsburgh Federal Credit Union<br /> became *UFirst Federal Credit Union*\n\nFor at least two in the list, I have a hunch that they were feeling pressure much like FAMU FCU is right now.\n\nI've been seeing a lot of CUs switching to names like \"TruGrocer\", \"UFirst\", \"TwinStar\" and even \"VAntage Trust\" (they're in Virginia, get it? Get it?).  \n\nIn five years, everyone will be looking back on the whole mixed capital letters with no spaces thing saying, \"How 2006!\""
+    date: 2006-11-09T14:15:26.000Z
 ---
 
 <p>

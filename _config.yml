@@ -1,7 +1,7 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "Open Source CU"
+  subtitle:     "Stop. Collaborate. Listen."
   cover_image:  blog-cover.jpg
   logo:         logo.png
 
@@ -10,10 +10,6 @@ inc:
   url:          http://opensourcecu.github.io
   facebook:     opensourcecu
   twitter:      opensourcecu
-
-  # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
 
   # Comments
   disqus:
@@ -27,11 +23,9 @@ inc:
     gplus:      false
     hn:         false
 
-
  # Analytics
   analytics:
     google: false # Add tracking code in _includes/_google-analytics.html
-
 
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'

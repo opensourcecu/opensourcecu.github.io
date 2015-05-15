@@ -6,6 +6,34 @@ excerpt: ''
 author:
   name: Brent Dixon
   twitter: thehabdash
+comments:
+  - author: Kevin
+    body: "Our credit union has a \"branch\" in a local grade school and Junior High School.  It is great because the \"employees\" of the grade school branch can go on to work for the Junior High branch and we've even had one that during High School and now College has worked as a part time teller at our CU.  The kids at the Junior High run the entire operation from a Board of Directors to Marketing within the school all the way to the front teller line staff."
+    date: 2006-09-19T12:56:18.000Z
+  - author: Brent
+    body: |-
+      Kevin,
+
+      That is so cool. I especially like that your program in particular is built around a long-term relationship. How long have you have those branches been up and running?
+    date: 2006-09-19T20:54:20.000Z
+  - author: Kevin
+    body: |-
+      Brent,
+
+      This is our 11th year at the grade school and our 2nd year at the Junior High School.  Our first year at the Junior High wasn't as successful as the students would have liked in terms of transaction volume.  So responding like a true business, this years Board of Directors has adjusted the branches hours of operation and directed the Marketing Department to do additonal signage around the school.  These and other changes make us think this will be a great growth year for our Junior High branch.
+    date: 2006-09-20T12:21:30.000Z
+  - author: Jessica
+    body: 'Hey guys. This is a great idea. And our credit union has thrown it around a bit. Since you have some experience, Kevin, do you have an suggestions on getting started that I can take back to the management team? I would love to get something up and running in our school community.'
+    date: 2006-09-20T16:50:14.000Z
+  - author: Kevin
+    body: "Hi Jessica,\n\nHere are two things I can suggest.  First, start having conversations with your local school district to build a strong relationship.  Try to find somone within the school district (teacher,administrator,etc) that will act as a strong advocate for your credit union at school board meetings,etc.  Second, develop goals for your branch.  For example, with our grade school branch our most basic goal is to simply teach the students the importance of savings.  "
+    date: 2006-09-21T13:25:26.000Z
+  - author: shari storm
+    body: "It struck me when we were doing the branding exercise for the Shared Branching co-op advertising that so many people have childhood memories of visiting the bank with their parents - but not the credit union. It never occurred to me that since credit unions have historically been in employees' place of business, that people  weren't taking their kids there. (they'd do their banking on their lunch hour, rather than on the weekends). We have a whole generation of people that don't have credit unions imprinted on their collective psyche. If I had a dollar for every time I've heard a Seattlitte reference Washington Mutual's \"bank day\", well, I wouldn't need to work at the credit union anymore. \n\nBizKids and credit unions in schools are such good, long term investments for the credit union movement. Hats off to BECU and WSECU and all the other credit unions doing stuff like this. "
+    date: 2006-09-28T19:38:15.000Z
+  - author: Brent
+    body: "When I was around two, I remember tripping and cracking my head open at News Media Credit Union in Houston, TX. \r\n\r\nThe fall left me with a permanent mark on my forehead (see figure 1-a), sort of a credit-uniony version of Harry Potter's lightning bolt. \r\n\r\nThis may not be the kind of memory Shari's talking about, however.\r\n<br/><br/>\r\n*_figure 1-a_*<br/>\r\n!http://cu.trabian.com/trabian/opensourcecu/markofthecreditunion-3.jpg!"
+    date: 2006-09-28T21:25:27.000Z
 ---
 
 <p>I had several different conversations last week&nbsp;on the importance of promoting financial literacy among youth. One revolved around <a href="http://www.waleague.org/bizkids.html">Biz Kid$</a>, a show about to be kicked off on <span class="caps">PBS</span>, produced by the folks who did Bill Nye, and sponsored by a slew of credit unions. Another was with Tom from the <a href="http://www.brassmedia.com/">BrassMedia</a> crew, discussing how focusing marketing&nbsp;and education on consumers in their prime lending years now, although important, is no way to
