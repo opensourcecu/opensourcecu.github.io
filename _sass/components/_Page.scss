@@ -3,17 +3,17 @@
   margin-top: 60px;
   @include outer-container;
 
-}
+  &-container {
 
-.Page-content {
-
-  @include span-columns(8);
-  @include shift(2);
-
-  @include media($mobile) {
     @include span-columns(8);
-    @include shift(0);
-    padding: 0 1em;
+    @include shift(2);
+
+    @include media($mobile) {
+      @include span-columns(8);
+      @include shift(0);
+      padding: 0 1em;
+    }
+
   }
 
 }
