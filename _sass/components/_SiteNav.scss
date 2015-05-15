@@ -1,0 +1,32 @@
+$--SiteNav-linkSpacing: 0 0.9em;
+$--SiteNav-height: 40px;
+
+.SiteNav {
+
+  &-navigation {
+    display: table-cell;
+    padding: 22px 30px;
+  }
+
+  &-brand {
+
+    display: inline-block;
+    float: left;
+    max-height: $--SiteNav-height;
+
+    &-logo {
+      height: $--SiteNav-height;
+      margin: $--SiteNav-linkSpacing;
+    }
+  }
+
+  &-link {
+    color: $dark-gray;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: $--SiteNav-height;
+    margin: $--SiteNav-linkSpacing;
+  }
+
+}
