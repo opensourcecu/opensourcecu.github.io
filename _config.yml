@@ -9,6 +9,7 @@ inc:
   company:      Open Source CU
   url:          http://opensourcecu.github.io
   twitter:      opensourcecu
+  rss: true
 
   # Comments
   disqus:

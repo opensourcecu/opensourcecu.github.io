@@ -14,14 +14,18 @@ layout: base
       {% endif %}
 
       {% if site.inc.twitter %}
-      <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank" class="BlogCover-socialLink"><i class="Icon Icon--twitter"></i></a>
+      <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank" class="BlogCover-socialLink">
+        <i class="fa fa-twitter"></i>
+      </a>
       {% endif %}
       {% if site.inc.facebook %}
-      <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank" class="BlogCover-socialLink"><i class="Icon Icon--facebook"></i></a>
+      <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank" class="BlogCover-socialLink">
+        <i class="fa fa-facebook"></i>
+      </a>
       {% endif %}
       {% if site.inc.rss %}
       <a href="/feed.xml" title="RSS Feed" class="BlogCover-socialLink">
-        <i class="Icon Icon--rss"></i>
+        <i class="fa fa-rss"></i>
       </a>
       {% endif %}
 
