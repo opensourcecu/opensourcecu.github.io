@@ -4,6 +4,7 @@ layout: post
 title: 'CUNA GAC: Make an Impact – Day Two (Part One)'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Shari Storm
 comments:
