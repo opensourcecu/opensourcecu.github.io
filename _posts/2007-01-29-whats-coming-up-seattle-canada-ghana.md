@@ -4,6 +4,7 @@ layout: post
 title: "What's coming up: Seattle, Canada/Ghana"
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
