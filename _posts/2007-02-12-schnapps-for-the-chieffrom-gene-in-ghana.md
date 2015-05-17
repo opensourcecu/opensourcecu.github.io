@@ -3,6 +3,7 @@
 layout: post
 title: 'From Gene in Ghana: Schnapps for the Chief'
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Gene Creelman
