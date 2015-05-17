@@ -4,6 +4,7 @@ layout: post
 title: 'How to communicate during a crisis: Part 0.5'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
