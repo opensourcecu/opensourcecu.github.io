@@ -2,7 +2,7 @@
 
 layout: post
 title: 'WOM is a Unicorn with Hen’s Teeth, And I’m Sitting on One Now'
-excerpt: ''
+excerpt: 'Communication is communication. The base principles of polite, sincere communication, mass or one-on-one, are universal, not generational or demographic.'
 legacy: true
 author:
   name: Charlie Trotter
