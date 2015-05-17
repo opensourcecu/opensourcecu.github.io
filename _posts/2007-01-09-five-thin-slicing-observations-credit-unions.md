@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Five thin-slicing observations: Credit Unions'
-excerpt: ''
+excerpt: '"Thin-slicing" refers to the ability of our unconscious to find patterns in situations and behavior based on very narrow slices of experience. The goal is to slow down and actually see some of the patterns we recognize long before we consciously know we see them.'
 legacy: true
 author:
   name: Trey Reeme
