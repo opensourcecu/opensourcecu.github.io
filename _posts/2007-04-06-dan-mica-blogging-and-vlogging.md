@@ -4,6 +4,7 @@ layout: post
 title: Dan Mica blogging and vlogging
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
