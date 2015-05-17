@@ -3,6 +3,7 @@
 layout: post
 title: 'From Gene in Ghana: February 18'
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Gene Creelman
