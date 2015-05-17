@@ -3,6 +3,7 @@
 layout: post
 title: "From Gene in Ghana: Happy Groundhog's Day!"
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Gene Creelman
