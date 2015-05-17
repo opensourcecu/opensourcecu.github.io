@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Open Source CU Podcast: Episode 7'
-excerpt: ''
+excerpt: 'Update: (5/16/2015) Our original audio file of this podcast conveniently died with Odeo sometime over the last eight years. The transcript is all we have left, but it's a good one. Enjoy!'
 legacy: true
 author:
   name: Trey Reeme
@@ -33,8 +33,8 @@ comments:
     date: 2007-02-20T02:50:06.000Z
 ---
 
+<p><em>Update: (5/16/2015) Our original audio file of this podcast conveniently died with Odeo sometime over the last eight years. The transcript is all we have left, but it's a good one. Enjoy!</em></p>
 <p>&#8220;What would you like to see most from credit unions in 2007?&#8221;</p>
-<embed src="http://odeo.com/flash/audio_player_gray.swf" quality="high" width="322" height="54" name="odeo_player_gray" align="middle" allowScriptAccess="always" wmode="transparent"  type="application/x-shockwave-flash" flashvars="type=audio&#38;id=9172003" pluginspage="http://www.macromedia.com/go/getflashplayer" /></embed><br /><a style="font-size: 9px; padding-left: 110px; color: #f39; letter-spacing: -1px; text-decoration: none" href="http://odeo.com/audio/9172003/view">powered by <strong><span class="caps">ODEO</span></strong></a>
 <p>Here&#8217;s the final episode in our series discussing the question, and in this third installment you&#8217;ll hear from:</p>
 <ul><li><a href="http://veritycu.blogspot.com">Shari Storm</a>, Chief Marketing Officer at <a href="http://www.veritycu.org">Verity Credit Union</a></li><li><a href="http://www.dougtrue.net">Doug True</a>, <span class="caps">CEO</span> of <a href="http://www.forumsolutions.com"><span class="caps">FORUM</span> Solutions</a></li><li><a href="http://www.netbanker.com">Jim Bruene</a>, Editor and Founder of <a href="http://www.onlinebankingreport.com/">Online Banking Report</a></li><li><a href="http://www.cues.org">Kevin Davies</a>, VP of Professional Development at <a href="http://www.cues.org"><span class="caps">CUES</span></a></li><li>and <a href="http://www.cuceo.com">Ben Rogers</a>, Editor of the <a href="http://www.cuceo.com/"><span class="caps">CEO</span> Report</a></li></ul>
 <p>After you give it a listen, leave a comment below or on our audio comments line at (206) 350-OSCU (6728).  You can subscribe in iTunes <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=192789928">here</a> or download the podcast <a href="http://media.libsyn.com/media/opensourcecu/OpenSourceCU_Podcast007.mp3">here</a>.</p>
