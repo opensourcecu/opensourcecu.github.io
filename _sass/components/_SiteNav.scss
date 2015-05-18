@@ -14,10 +14,17 @@ $--SiteNav-height: 40px;
     float: left;
     max-height: $--SiteNav-height;
 
+    @include retina-image("/images/logo", 62px 40px);
+
+    width: 62px;
+    height: 40px;
+
+    margin: $--SiteNav-linkSpacing;
+
     &-logo {
-      height: $--SiteNav-height;
-      margin: $--SiteNav-linkSpacing;
+      display: none;
     }
+
   }
 
   &-link {

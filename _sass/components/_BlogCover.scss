@@ -18,7 +18,7 @@ $--BlogCover-fontWeight: 600;
   &--main {
     height: 320px;
     @include media($medium) {
-      height: 200px;
+      height: 180px;
     }
   }
 
@@ -41,26 +41,26 @@ $--BlogCover-fontWeight: 600;
     text-align: center;
 
     @include media($medium) {
-      padding: 10px 0 0;
+      padding: 15px 0 0;
     }
 
   }
 
   &-title {
-
-    color: $--BlogCover-textColor;
-    font-size: 2.7em;
-    font-weight: $--BlogCover-fontWeight;
-    line-height: 1.4em;
-    margin: 0;
-
+    @include retina-image("/images/logo_white", 200px 129px);
+    height: 129px;
+    width: 200px;
+    margin: 0 auto 10px;
+    background-repeat: no-repeat;
     @include media($medium) {
-      font-size: 1.5em;
+      @include retina-image("/images/logo_white", 100px 64px);
+      height: 64px;
+      width: 100px;
     }
-
   }
 
   &-logo {
+    display: none;
     @include media($medium) {
       width: 150px;
     }
