@@ -3,6 +3,7 @@
 layout: post
 title: Seth mis(?)speaks
 excerpt: ''
+drafts: true
 legacy: true
 author:
   name: Trey Reeme
