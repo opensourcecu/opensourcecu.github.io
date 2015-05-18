@@ -2,7 +2,7 @@
 
 layout: post
 title: 'CUES CEO Network: Author and Fast Company cofounder Bill Taylor'
-excerpt: ''
+excerpt: 'The more I think about it, the more I realize that without a movement, there's no meaningful difference between a credit union and a bank.'
 legacy: true
 author:
   name: Trey Reeme
