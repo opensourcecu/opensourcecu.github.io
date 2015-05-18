@@ -4,6 +4,7 @@ layout: post
 title: Buried Treasure
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
