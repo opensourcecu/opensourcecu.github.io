@@ -2,7 +2,7 @@
 
 layout: post
 title: UMB gets ugly
-excerpt: ''
+excerpt: 'This is a perfect example of empowering, demonstrating and involving the market to create a meaningful experience.'
 legacy: true
 author:
   name: Brent Dixon
