@@ -2,7 +2,7 @@
 
 layout: post
 title: The what-if that fuels growth
-excerpt: ''
+excerpt: What if this is a huge success?
 legacy: true
 author:
   name: Trey Reeme
