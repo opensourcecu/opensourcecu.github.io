@@ -47,6 +47,7 @@ $--BlogCover-fontWeight: 600;
   }
 
   &-title {
+    @include hide-text;
     @include retina-image("/images/logo_white", 200px 129px);
     height: 129px;
     width: 200px;
