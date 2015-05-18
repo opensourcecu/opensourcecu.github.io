@@ -2,13 +2,17 @@
 
 layout: post
 title: Are you on Yelp?
-excerpt: 'I'm making this post partly because I fear that a lot of credit unions are about to jump into social media with a "let's throw a blog at it" mentality. "It" being (a) the problem of dwindling returns and rising costs for traditional marketing and (b) a desire to sit at the cool kids' table.'
+
+excerpt: I'm making this post partly because I fear that a lot of credit unions are about to jump into social media with a "let's throw a blog at it" mentality. "It" being (a) the problem of dwindling returns and rising costs for traditional marketing and (b) a desire to sit at the cool kids' table.
+
 legacy: true
+
 author:
   name: Trey Reeme
   twitter: creeme
   bio: Cofounder and COO of Trabian
   image: authors/trey.png
+  
 comments:
   - author: terrell
     body: "I've been active on Yelp in Seattle since last June. There have been many discussions in the Talk Threads about businesses Yelping themselves or employees Yelping the place they work for. I happen to think it's a great idea and agree with the DONT guidelines Yelp offers.\r\n\r\nIn Seattle at least, I haven't seen businesses setting up their own profiles. Also, I haven't seen good results when business owners plug themselves in a talk thread.\r\n\r\nI have heard great things about businesses recognizing Yelpers. For example, if you write a glowing review of a place, the business might send you a private message and offer you a discount on something. When that happens, the Yelper usually talks about it. \r\n\r\nI've had great conversations about credit unions in the talk threads and have had a couple of my Yelp friends open accounts with Verity due to our discussions."
