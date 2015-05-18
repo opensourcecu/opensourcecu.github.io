@@ -3,6 +3,7 @@
 layout: post
 title: 'WCUL: Marketing through community involvement'
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Brent Dixon
