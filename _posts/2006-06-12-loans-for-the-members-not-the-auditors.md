@@ -3,6 +3,7 @@
 layout: post
 title: 'Loans for the members, not the auditors'
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Matt Dean

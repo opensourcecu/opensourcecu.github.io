@@ -2,7 +2,7 @@
 
 layout: post
 title: 'CUES CEO Network: Online Philanthropy'
-excerpt: ''
+excerpt: 'hen Hurricanes Katrina and Rita hit last year, credit unions responded.  In fact the National Credit Union Foundation raised and distributed more than $3 million in the wake of Katrina alone. So I was surprised to hear during today&#8217;s session on online philanthropy that virtually none of that $3 million was raised via the Internet.'
 legacy: true
 author:
   name: Trey Reeme

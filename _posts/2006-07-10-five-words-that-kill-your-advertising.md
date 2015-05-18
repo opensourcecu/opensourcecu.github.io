@@ -2,7 +2,7 @@
 
 layout: post
 title: Five words that kill your advertising
-excerpt: ''
+excerpt: What you think about your company doesn't matter. All that matters is what your customers and prospects think. 
 legacy: true
 author:
   name: Brent Dixon

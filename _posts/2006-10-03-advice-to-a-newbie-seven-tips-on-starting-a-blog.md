@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Advice to a newbie: Seven tips on starting a blog'
-excerpt: ''
+excerpt: 'Yes, blogging can definitely increase your exposure on the web, build a community around your ideas, and introduce you to many thoughtful, interesting people.  But here are some important things to consider before diving in.'
 legacy: true
 author:
   name: Trey Reeme

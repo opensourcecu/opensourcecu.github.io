@@ -3,6 +3,7 @@
 layout: post
 title: "FAMU Federal Credit Union getting bloggers' support"
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme
@@ -45,7 +46,7 @@ comments:
 ---
 
 <p>
-<a href="http://rattlernation.blogspot.com/2006/10/castell-challenges-credit-union-over.html">Check it out</a>. The interim president of Florida A&#38;M University wants <a href="http://www.famufcu.com"><span class="caps">FAMU FCU</span></a> to change its name.  A campus blogger with a pretty wide audience writes it up.  Students, alums, and credit union members and non-members rally around the credit union. 
+<a href="http://rattlernation.blogspot.com/2006/10/castell-challenges-credit-union-over.html">Check it out</a>. The interim president of Florida A&#38;M University wants <a href="http://www.famufcu.com"><span class="caps">FAMU FCU</span></a> to change its name.  A campus blogger with a pretty wide audience writes it up.  Students, alums, and credit union members and non-members rally around the credit union.
 </p><p>
 From the comments:
 </p><ul>

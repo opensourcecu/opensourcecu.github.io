@@ -2,7 +2,7 @@
 
 layout: post
 title: 'CUES CEO Network: Worth the trip after all'
-excerpt: ''
+excerpt: 'I was encouraged to hear that most of the CEOs felt their credit unions were doing a crappy job reaching Gen Y and that peer-to-peer lending was more than just a passing fad.  One of the attendees even had an account through Prosper and was making over 11% on his $200 investment.  So perhaps these guys are paying attention to more than we give them credit for'
 legacy: true
 author:
   name: Matt Dean

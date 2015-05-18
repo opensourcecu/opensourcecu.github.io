@@ -2,7 +2,7 @@
 
 layout: post
 title: Did we mention Tarrant County Credit Union rocks?
-excerpt: ''
+excerpt: There are many external threats to the industry (e.g., threat of taxation, diminishing margin spreads, excessive regulation) but the real threat is our inability to respond to the external threats.
 legacy: true
 author:
   name: Trey Reeme

@@ -3,6 +3,7 @@
 layout: post
 title: Redesign talk + Technical difficulties
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Brent Dixon

@@ -4,6 +4,7 @@ layout: post
 title: Blogging the Washington Credit Union League Annual Convention
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

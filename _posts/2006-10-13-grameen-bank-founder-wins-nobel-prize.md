@@ -2,7 +2,7 @@
 
 layout: post
 title: Grameen Bank founder wins Nobel Prize
-excerpt: ''
+excerpt: 'Muhammad Yunus and the Grameen Bank he founded have <a href="http://nobelprize.org/nobel_prizes/peace/laureates/2006/">won the Nobel Peace Prize</a>.  If you haven&#8217;t read <a href="http://www.amazon.com/Banker-Poor-Micro-Lending-Against-Poverty/dp/1586481983/sr=8-1/qid=1160745287/ref=pd_bbs_1/104-2974250-7416744?ie=UTF8">Banker to the Poor: Micro-Lending and the Battle Against World Poverty</a> then you may want to give it a shot&#8212;it&#8217;s a very worthwhile read.'
 legacy: true
 author:
   name: Matt Dean

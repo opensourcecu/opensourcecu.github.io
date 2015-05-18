@@ -2,7 +2,7 @@
 
 layout: post
 title: Credit Union CEO blogs with members
-excerpt: ''
+excerpt: 'Is it just me or has there been a recent spike in financial institutions participating in the social web?'
 legacy: true
 author:
   name: Trey Reeme

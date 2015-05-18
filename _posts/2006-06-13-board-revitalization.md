@@ -4,6 +4,7 @@ layout: post
 title: Board revitalization
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Matt Dean
   twitter: trabianmatt

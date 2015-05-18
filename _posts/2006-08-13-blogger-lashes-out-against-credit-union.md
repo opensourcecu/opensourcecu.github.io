@@ -2,7 +2,7 @@
 
 layout: post
 title: Blogger lashes out against credit union
-excerpt: ''
+excerpt: 'Now I don&#8217;t know the fine folks at this credit union, but I do know the complaints against them on that blog aren&#8217;t at all justified &#8211; but that&#8217;s not the point.'
 legacy: true
 author:
   name: Trey Reeme

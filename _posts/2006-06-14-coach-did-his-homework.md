@@ -3,6 +3,7 @@
 layout: post
 title: Coach did his homework
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Matt Dean

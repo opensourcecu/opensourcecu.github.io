@@ -2,7 +2,7 @@
 
 layout: post
 title: Vancity responds to criticism
-excerpt: ''
+excerpt: 'Transparency is a powerful thing, friends.  Now those of us following this project have an example of a credit union responding to direct criticism on a blog.  Thank you again, Vancity, because you&#8217;re doing <em>everything</em> right with this site.'
 legacy: true
 author:
   name: Trey Reeme

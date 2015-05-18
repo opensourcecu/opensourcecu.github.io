@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Spectacular CU website: Coast Capital Savings'
-excerpt: ''
+excerpt: 'We stumbled upon the new website for a Canadian credit union yesterday.  It&#8217;s for <a href="https://www.coastcapitalsavings.com/">Coast Capital Savings</a>, and it&#8217;s <em>hands down</em> in the top 1% of credit union sites.'
 legacy: true
 author:
   name: Trey Reeme
