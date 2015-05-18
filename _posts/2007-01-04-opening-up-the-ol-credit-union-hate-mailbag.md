@@ -2,7 +2,7 @@
 
 layout: post
 title: "Opening up the ol' Credit Union (hate)mailbag"
-excerpt: ''
+excerpt: 'If you have a contact at this credit union, clue him/her in on what’s going on so they can help themselves.'
 legacy: true
 author:
   name: Trey Reeme

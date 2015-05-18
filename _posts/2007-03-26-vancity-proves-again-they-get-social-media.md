@@ -2,7 +2,8 @@
 
 layout: post
 title: Vancity proves (again) they get social media
-excerpt: ''
+excerpt: 'Darren Barefoot, a well-known Canadian blogger who&#8217;s even dropped <a href="http://www.opensourcecu.com/articles/2006/08/13/blogger-lashes-out-against-credit-union#comment-411">a few comments on Open Source CU</a>, hooked Vancity up with some constructive criticism on <a href="http://www.darrenbarefoot.com">darrenbarefoot.com</a>.</p>
+<p>In case you&#8217;re wondering how things got started, Darren&#8217;s post is called <a href="http://www.darrenbarefoot.com/archives/2007/03/i-wanted-to-like-vancity-but-now-i-loathe-them.html">I Wanted to Like Vancity, But Now I Loathe Them</a>'
 legacy: true
 author:
   name: Trey Reeme

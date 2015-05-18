@@ -2,7 +2,7 @@
 
 layout: post
 title: Is Wesabe the new Quicken?
-excerpt: ''
+excerpt: 'I&#8217;ve stayed out of the debate for the five days since my last post.  I wanted to get my hands dirty with Wesabe before bashing or praising it.'
 legacy: true
 author:
   name: Trey Reeme

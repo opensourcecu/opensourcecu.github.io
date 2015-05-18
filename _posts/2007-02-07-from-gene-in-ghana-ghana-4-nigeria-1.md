@@ -2,6 +2,7 @@
 
 layout: post
 title: 'From Gene in Ghana: Ghana 4 Nigeria 1'
+draft: true
 excerpt: ''
 legacy: true
 author:

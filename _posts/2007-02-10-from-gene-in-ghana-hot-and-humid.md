@@ -4,6 +4,7 @@ layout: post
 title: 'From Gene in Ghana: Hot and Humid!'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Gene Creelman
 ---

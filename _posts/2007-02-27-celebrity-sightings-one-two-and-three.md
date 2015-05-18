@@ -4,6 +4,7 @@ layout: post
 title: 'CUNA GAC: Celebrity Sightings One, Two, and Three'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Shari Storm
 comments:

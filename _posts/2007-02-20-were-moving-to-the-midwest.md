@@ -4,6 +4,7 @@ layout: post
 title: "We're moving to the Midwest"
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

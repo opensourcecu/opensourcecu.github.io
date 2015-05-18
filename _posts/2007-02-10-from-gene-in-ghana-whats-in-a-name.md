@@ -4,6 +4,7 @@ layout: post
 title: "From Gene in Ghana: What's in a name?"
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Gene Creelman
 comments:

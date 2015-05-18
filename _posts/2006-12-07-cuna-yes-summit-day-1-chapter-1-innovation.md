@@ -2,7 +2,7 @@
 
 layout: post
 title: 'CUNA YES Summit -- Day 1, Chapter 1: Innovation'
-excerpt: ''
+excerpt: 'Like some of the other authors on Open Source CU, I&#8217;m skeptical of efforts to &#8220;target&#8221; an age-based demographic, largely because those efforts towards 18-to-30s usually involve advice like &#8220;use hip-hop in your marketing so you can relate&#8221;'
 legacy: true
 author:
   name: Matt Dean

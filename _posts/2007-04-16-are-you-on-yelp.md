@@ -2,7 +2,7 @@
 
 layout: post
 title: Are you on Yelp?
-excerpt: ''
+excerpt: 'I'm making this post partly because I fear that a lot of credit unions are about to jump into social media with a "let's throw a blog at it" mentality. "It" being (a) the problem of dwindling returns and rising costs for traditional marketing and (b) a desire to sit at the cool kids' table.'
 legacy: true
 author:
   name: Trey Reeme

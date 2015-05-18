@@ -4,8 +4,9 @@ layout: post
 title: 'Communicating the "Difference"'
 excerpt: ''
 legacy: true
+draft: true
 author:
-  name: ''
+  name: 'John Cote'
 comments:
   - author: 'Ron Bensley, Jr.'
     body: "Credit unions are supposed to be \"democratically controlled\" by the members-at-large.  Boards are supposed to be accountable to the membership, not to the CEO as is largely the case in for-profit corporations.\r\n\r\nLafayette, DFCU, and Columbia have successfully argued in court that members-at-large have no rights other than those of depositors at a bank.\r\n\r\nCUNA and the state leagues are nowhere to be found when it comes to using their moral authority and legal standing (as intervenors) to stop such silliness.  It should be embarrassing to the CU movement that an outsider for me has to point this out."
@@ -72,15 +73,15 @@ comments:
 <p>There&#8217;s no shame in being unable to immediately tell someone why we&#8217;re different from banks.  The truth, when you jettison all the rhetoric, is that there are far more similarities than differences.  Banks generally do a good job of serving their customers and credit unions generally do a good job serving their members.  But our <a href="http://www.vermontcreditunions.com/">Association</a>, <span class="caps">CUNA</span>, state leagues, and credit unions across the country often struggle with how best to communicate our difference.</p>
 <h3>What&#8217;s the right message?</h3>
 <p>Surveys have been done to discover which credit union message resonates the most with the target audience of legislators, the general public, and the media.  All the buzz phrases that seek to clearly, quickly, and concisely define us are tested: &#8220;not-for-profit cooperative&#8221; ... &#8220;volunteer governed&#8221; ... &#8220;lower rates and fees&#8221; ... &#8220;community focused&#8221;.  Most, like the first three, are partially effective (by the way, &#8220;not-for-profit&#8221; is the correct term, not &#8220;non-profit&#8221; &#8211; there&#8217;s a big difference!).  Some, like the last one, say nothing about why we&#8217;re different &#8211; is there a bank anywhere that touts itself as <span class="caps">NOT</span> being community focused?</p>
-<p>What about membership?  If you think &#8220;member owned&#8221; is the key phrase missing 
+<p>What about membership?  If you think &#8220;member owned&#8221; is the key phrase missing
 above, you&#8217;re not alone.  In a perfect credit union world, all the other important messages should pale in comparison to &#8220;as a member, you own the credit union&#8221;.  After all, who doesn&#8217;t want to share in the benefits of a successful financial institution?  Ownership is the alpha and omega of differentiation, but there&#8217;s a gigantic fly in the ointment, and its name is &#8220;confusion&#8221;.</p>
 <p>As a credit union volunteer or employee, you know what membership means, but you&#8217;re in the minority compared to the general public and, more than likely, to some of your fellow members.  Surveys and focus groups have even found that the word &#8220;membership&#8221; can be viewed as detrimental &#8211; &#8220;I just want to open a checking account, why do I have to join a club?&#8221;  It&#8217;s not their problem, it&#8217;s ours.</p>
 <p>Unless we find a way to break through that confusion barrier, explain <span class="caps">WHY</span> ownership matters, and deliver a compelling answer to the unspoken question &#8220;What&#8217;s in it for me?&#8221;, we cannot grow, we cannot compete, and many of us will not survive.</p>
 <h3>How did we get here?</h3>
 <p>What happened?  How did we get here?  It used to be so easy, because credit unions have owned &#8220;warm and fuzzy&#8221; for decades.  We still do, but warm and fuzzy alone isn&#8217;t getting the job done anymore.  Competition is here; it&#8217;s fierce and it&#8217;s growing.</p>
 <p>Assets grow every year, services improve, but membership levels are stagnant.  There needs to be some radical adjustments in the way we communicate, and in the messages we deliver, to our current and potential target markets.</p>
-<p>The good news is that we have a lot working in our favor.  Our product is 
-valuable and in-demand.  Our people are dedicated.  Best of all, among those 
+<p>The good news is that we have a lot working in our favor.  Our product is
+valuable and in-demand.  Our people are dedicated.  Best of all, among those
 who truly understand it, our brand generates some of the fiercest loyalty you&#8217;d ever hope to have.</p>
 <p>Need proof?  Consider two recent instances where a small group of individuals wanted to seriously change that brand.</p>
 <h3>Instance One: <span class="caps">DFCU</span> Financial</h3>

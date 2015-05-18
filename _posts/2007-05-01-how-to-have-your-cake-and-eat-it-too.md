@@ -2,7 +2,7 @@
 
 layout: post
 title: How to have your cake and eat it too
-excerpt: 'Credit unions have the benefit of being a part of a close-knit powerful network, the credit union industry as a whole, while being tightly woven into the communities they serve at the same time. This opens up huge opportunities for competing with banks and other financial institutions at every single level.'
+excerpt: 'Credit unions have the benefit of being a part of a close-knit powerful network -- the credit union industry as a whole -- while being tightly woven into the communities they serve at the same time. This opens up huge opportunities for competing with banks and other financial institutions at every single level.'
 legacy: true
 author:
   name: Brent Dixon
@@ -65,7 +65,7 @@ comments:
     date: 2007-05-03T14:08:33.000Z
 ---
 
-<p>Credit unions have the benefit of being a part of a close-knit powerful network, the credit union industry as a whole, while being tightly woven into the communities they serve at the same time. This opens up huge opportunities for competing with banks and other financial institutions at every single level.</p>
+<p>Credit unions have the benefit of being a part of a close-knit powerful network -- the credit union industry as a whole -- while being tightly woven into the communities they serve at the same time. This opens up huge opportunities for competing with banks and other financial institutions at every single level.</p>
 <h1><span class="caps">COMPETING BIG</span></h1>
 <p>Why do people choose large banks like Wells Fargo, Chase, and B of A? I&#8217;d argue that a large part of that is accessibility. They want access to the same services, branches, and ATMs across the country. When I moved to from Houston to College Station for school, I moved my money from <a href="http://www.eccu.net">Energy Capital Credit Union</a> to Wells Fargo. I knew that college would be a mobile time &#8211; I&#8217;d be visiting family at home, friends at other schools, going on trips in the summer, etc. I knew I&#8217;d be able to access Wells Fargo pretty much anywhere I went.</p>
 <p>I had absolutely no clue about the <a href="http://www.cuswirl.com/">Shared Service Centers</a>, the <a href="http://www.co-opfs.org/">Co-op Network</a>, and the depth of service they offered. Credit unions, although appearing more disjointed and less accessible, are actually kicking banks&#8217; collective tail when it comes to <acronym title="Point of Sale">POS</acronym> access. Chase <a href="http://www.chase.com/ccpmweb/shared/image/Locator-Ad.gif">markets the heck out of the 8,500 ATMs nationwide</a>. The credit union co-op network has 25,000.</p>

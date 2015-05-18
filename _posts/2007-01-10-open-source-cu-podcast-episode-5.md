@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Open Source CU Podcast: Episode 5'
-excerpt: ''
+excerpt: 'Update: (5/16/2015) Our original audio file of this podcast conveniently died with Odeo sometime over the last eight years. The transcript is all we have left, but it's a good one. Enjoy!'
 legacy: true
 author:
   name: Trey Reeme
@@ -38,8 +38,8 @@ comments:
     date: 2007-01-13T19:21:19.000Z
 ---
 
+<p><em>Update: (5/16/2015) Our original audio file of this podcast conveniently died with Odeo sometime over the last eight years. The transcript is all we have left, but it's a good one. Enjoy!</em></p>
 <p>&#8220;What would you like to see most from credit unions in 2007?&#8221;</p>
-<embed src="http://odeo.com/flash/audio_player_gray.swf" quality="high" width="322" height="54" name="odeo_player_gray" align="middle" allowScriptAccess="always" wmode="transparent"  type="application/x-shockwave-flash" flashvars="type=audio&#38;id=5586233" pluginspage="http://www.macromedia.com/go/getflashplayer" /></embed><br /><a style="font-size: 9px; padding-left: 110px; color: #f39; letter-spacing: -1px; text-decoration: none" href="http://odeo.com/audio/5586233/view">powered by <strong><span class="caps">ODEO</span></strong></a>
 <p>It&#8217;s the question we&#8217;ve asked some of the most innovative folks both within and outside credit unions.  The response has been so refreshing, we&#8217;re breaking it up into (at least) a four-part series over the next few weeks.</p>
 <p>In this first installment, you&#8217;ll hear from:</p>
 <ul>

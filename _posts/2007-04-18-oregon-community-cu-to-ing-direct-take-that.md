@@ -3,6 +3,7 @@
 layout: post
 title: 'Oregon Community CU to ING Direct: "Take that!"'
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme

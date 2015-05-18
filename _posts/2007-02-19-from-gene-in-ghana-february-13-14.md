@@ -2,6 +2,7 @@
 
 layout: post
 title: 'From Gene in Ghana: February 13, 14'
+draft: true
 excerpt: ''
 legacy: true
 author:
