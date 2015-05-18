@@ -4,6 +4,7 @@ layout: post
 title: 'Vancity Credit Union to blog!'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
