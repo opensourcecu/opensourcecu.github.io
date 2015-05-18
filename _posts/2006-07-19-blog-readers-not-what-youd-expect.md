@@ -3,6 +3,7 @@
 layout: post
 title: "Blog readers not what you'd expect"
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Matt Dean
