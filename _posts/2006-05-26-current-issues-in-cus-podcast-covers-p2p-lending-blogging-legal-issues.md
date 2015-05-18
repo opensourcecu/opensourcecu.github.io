@@ -4,6 +4,7 @@ layout: post
 title: 'Current Issues in CUs podcast covers P2P lending, blogging legal issues'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
