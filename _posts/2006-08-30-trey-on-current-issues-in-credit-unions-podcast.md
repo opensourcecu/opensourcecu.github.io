@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Trey on "Current Issues in Credit Unions" podcast'
-excerpt: ''
+excerpt: 'Topics range from &#8220;Google-bombing&#8221; to &#8220;ways a credit union can improve its bottom line&#8221; to the melancholy business of &#8220;dealing with the death of a member&#8221; (legally, not emotionally).'
 legacy: true
 author:
   name: Brent Dixon
