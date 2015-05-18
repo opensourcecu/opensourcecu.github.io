@@ -3,6 +3,7 @@
 layout: post
 title: I just got clued in on baggie omelets
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme
