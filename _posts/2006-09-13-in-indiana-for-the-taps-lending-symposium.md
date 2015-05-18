@@ -3,6 +3,7 @@
 layout: post
 title: In Indiana for the TAPS Lending Symposium
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Matt Dean
