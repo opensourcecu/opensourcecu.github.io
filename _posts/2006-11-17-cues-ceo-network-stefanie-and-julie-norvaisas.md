@@ -2,7 +2,7 @@
 
 layout: post
 title: 'CUES CEO Network: Stefanie and Julie Norvaisas'
-excerpt: ''
+excerpt: 'I doubt payday lenders are getting a lot of business from the CEO set.  That doesn&#8217;t mean that Joe Member isn&#8217;t standing in line at the counter begging for a short-term loan at 300% interest to get him through to the next paycheck.'
 legacy: true
 author:
   name: Trey Reeme
