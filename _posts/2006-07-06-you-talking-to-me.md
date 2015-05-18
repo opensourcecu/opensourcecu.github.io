@@ -2,7 +2,7 @@
 
 layout: post
 title: You talking to me?
-excerpt: ''
+excerpt: Gmail displayed an ad reading something like, &#8220;Left-handed?  Check out the left-handed store.&#8221;  Brent swears that the email conversation said nothing about his dad being left-handed, <em>which he most certainly is</em>.
 legacy: true
 author:
   name: Trey Reeme
