@@ -3,6 +3,7 @@
 layout: post
 title: Doug True tells his story through his new blog
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme
