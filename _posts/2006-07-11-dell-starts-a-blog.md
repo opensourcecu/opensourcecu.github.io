@@ -3,6 +3,7 @@
 layout: post
 title: Dell starts a blog
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Matt Dean
