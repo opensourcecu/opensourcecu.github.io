@@ -3,6 +3,7 @@
 layout: post
 title: "MySpace for Credit Unions - I've changed my mind."
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme
