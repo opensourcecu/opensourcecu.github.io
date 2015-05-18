@@ -2,7 +2,7 @@
 
 layout: post
 title: Credit Unioning circa 1985
-excerpt: ''
+excerpt: 'You know, I actually had some worthwhile topics up my sleeve to write about today&#8230;but I&#8217;ve dropped them in favor of posting <a href="http://www.youtube.com/watch?v=LWxP4eAfXZA">this YouTube video</a> on &#8220;Credit Unioning.&#8221;'
 legacy: true
 author:
   name: Brent Dixon
