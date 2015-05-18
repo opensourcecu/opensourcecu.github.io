@@ -34,14 +34,14 @@ $--BlogCover-fontWeight: 600;
 
     @include background-image(linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%));
 
-    padding: 100px 0;
+    padding: 50px 0;
 
     @include position(absolute, 0 0 0 0);
 
     text-align: center;
 
     @include media($medium) {
-      padding: 60px 0 0;
+      padding: 10px 0 0;
     }
 
   }
@@ -58,6 +58,12 @@ $--BlogCover-fontWeight: 600;
       font-size: 1.5em;
     }
 
+  }
+
+  &-logo {
+    @include media($medium) {
+      width: 150px;
+    }
   }
 
   &-subtitle {
@@ -81,13 +87,13 @@ $--BlogCover-fontWeight: 600;
     height: 36px;
     font-size: 16px;
     line-height: 1em;
-    margin: 1.5em 1em 0 0;
+    margin: 1.5em 0.5em 0;
     padding: 8px 0;
     width: 36px;
     text-align: center;
 
     @include media($medium) {
-      margin: 1em 0.75em 0 0;
+      margin: 1em 0.35em 0;
     }
 
     &:hover {
