@@ -4,6 +4,7 @@ layout: post
 title: CUNA News Now covers p2p lending today
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
