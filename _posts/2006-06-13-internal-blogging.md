@@ -3,6 +3,7 @@
 layout: post
 title: Internal blogging
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Matt Dean
