@@ -2,7 +2,7 @@
 
 layout: post
 title: 'S.O.B. - Save Our Bluths, er, Board'
-excerpt: ''
+excerpt: By picking the URL &#8220;saveDFCU.com&#8221; after seeking to end their credit union existence, now the Board&#8217;s <em>saving</em> DFCU! Yeah, I bet this campaign will smooth things over.
 legacy: true
 author:
   name: Trey Reeme
