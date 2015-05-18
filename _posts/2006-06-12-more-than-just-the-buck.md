@@ -2,7 +2,7 @@
 
 layout: post
 title: 'More than "just the buck"'
-excerpt: ''
+excerpt: Does anybody know that CUs are about more than &#8220;just the buck?&#8221;  Are credit unions connecting philosophically with anyone?  If not, how do we change that?
 legacy: true
 author:
   name: Matt Dean
