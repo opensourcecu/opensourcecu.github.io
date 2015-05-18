@@ -2,7 +2,7 @@
 
 layout: post
 title: Second Life primer
-excerpt: ''
+excerpt: 'Second Life was opened to the public in 2003, so it's not exactly new. However, its business implications have made for some explosive hype/conversation recently.'
 legacy: true
 author:
   name: Brent Dixon
@@ -68,7 +68,7 @@ comments:
 ---
 
 <p><img src="/images/legacy/matt_sl.gif" alt="Position of honor for a Nobel Prize winner" style="float:right; border: 2px solid #999999; margin: 4px;" /></p>
-<p>I had an interesting conversation with <a href="http://www.netbanker.com">Jim Bruene</a> (who&#8217;s blog you should definitely be reading) last week about <a href="http://www.secondlife.com">Second Life</a>, a &#8220;<a href="http://secondlife.com/whatis/">3-D virtual world entirely built and owned by its residents</a>.&#8221; Second Life was opened to the public in 2003, so it&#8217;s not exactly new. However, its business implications have made for some explosive hype/conversation recently.</p>
+<p>I had an interesting conversation with <a href="http://www.netbanker.com">Jim Bruene</a> (whose blog you should definitely be reading) last week about <a href="http://www.secondlife.com">Second Life</a>, a &#8220;<a href="http://secondlife.com/whatis/">3-D virtual world entirely built and owned by its residents</a>.&#8221; Second Life was opened to the public in 2003, so it&#8217;s not exactly new. However, its business implications have made for some explosive hype/conversation recently.</p>
 <p>And for all of you who are thinking &#8220;what a bunch of nerds&#8221;...touche. I thought the same thing. But I&#8217;ve gathered some stats that show the degree to which Second Life has broken out of the &#8220;dork-in-his-mom&#8217;s-basement&#8221; demographic:</p>
 <p><small>(some numbers will have changed after the posting of this article)</small></p>
 <ul>
