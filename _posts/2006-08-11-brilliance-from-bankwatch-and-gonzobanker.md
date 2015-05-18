@@ -2,7 +2,7 @@
 
 layout: post
 title: Brilliance from Bankwatch and GonzoBanker
-excerpt: ''
+excerpt: 'Vancity entered the social web with the right attitude.  For them, it&#8217;s about building community.  But Colin&#8217;s absolutely right: credit unions don&#8217;t own that notion.'
 legacy: true
 author:
   name: Trey Reeme
