@@ -4,6 +4,7 @@ layout: post
 title: 'Flash Drives: A huge threat to your network security'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
