@@ -4,6 +4,7 @@ layout: post
 title: Credit Unions of Washington patronize Super Bowl XL viewers
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Brent Dixon
   twitter: thehabdash
