@@ -2,7 +2,7 @@
 
 layout: post
 title: Vancity just changed everything
-excerpt: ''
+excerpt: 'Without a doubt, Change Everything from Vancity is the best example of <em>any</em> financial institution successfully using the social web (blogging, user-generated content, building a true online community).'
 legacy: true
 author:
   name: Trey Reeme
