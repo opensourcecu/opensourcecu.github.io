@@ -2,7 +2,7 @@
 
 layout: post
 title: Moment of truth
-excerpt: ''
+excerpt: 'Two days after Shari blogged about how Verity means the state or quality of being true or real, they got a big chance to prove it.  Their website got hacked'
 legacy: true
 author:
   name: Trey Reeme
