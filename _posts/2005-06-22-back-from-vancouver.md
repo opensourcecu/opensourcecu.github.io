@@ -2,7 +2,7 @@
 
 layout: post
 title: Back from Vancouver
-excerpt: ''
+excerpt: I'm excited about the future of this blog and of the industry.  Thanks for taking the time to read this, and I hope that together we can help shape the future of the credit union movement.
 legacy: true
 author:
   name: Matt Dean
