@@ -4,6 +4,7 @@ layout: post
 title: Want a blog?
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
