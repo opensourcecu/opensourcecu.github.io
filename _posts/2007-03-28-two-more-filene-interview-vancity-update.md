@@ -2,7 +2,8 @@
 
 layout: post
 title: 'Two more: Filene interview, Vancity update'
-excerpt: Thing 1: James Spurlock on Credit Unions. Thing 2: William Azaroff on Online Community  
+excerpt: |
+  Thing 1: James Spurlock on Credit Unions. Thing 2: William Azaroff on Online Community  
 legacy: true
 author:
   name: Trey Reeme
