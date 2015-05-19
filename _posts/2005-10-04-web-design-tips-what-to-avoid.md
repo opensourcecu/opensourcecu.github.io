@@ -4,6 +4,7 @@ layout: post
 title: Web design tips - what to avoid
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
