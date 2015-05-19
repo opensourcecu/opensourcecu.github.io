@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Letter to my Credit Union:'
-excerpt: ''
+excerpt: Here's a letter to my credit union insincerely thanking them for the bait-and-switch they pulled.
 legacy: true
 author:
   name: Trey Reeme
