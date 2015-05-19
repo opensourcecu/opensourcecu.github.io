@@ -4,6 +4,7 @@ layout: post
 title: Fort Worth Chapter of Credit Unions blogging
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
