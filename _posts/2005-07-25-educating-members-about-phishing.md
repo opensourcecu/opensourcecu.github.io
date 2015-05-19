@@ -2,7 +2,7 @@
 
 layout: post
 title: Educating members about phishing
-excerpt: ''
+excerpt: Use both online and offline channels to educate your members about phishing.
 legacy: true
 author:
   name: Trey Reeme
