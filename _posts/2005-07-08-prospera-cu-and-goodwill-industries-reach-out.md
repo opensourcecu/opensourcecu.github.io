@@ -4,6 +4,7 @@ layout: post
 title: Prospera CU and Goodwill Industries reach out
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
