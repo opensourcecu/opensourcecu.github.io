@@ -2,7 +2,7 @@
 
 layout: post
 title: "Jamaican Credit Union Tour '05"
-excerpt: ''
+excerpt: This is my first post on the Jamaican Credit Union Movement.
 legacy: true
 author:
   name: Brent Dixon
