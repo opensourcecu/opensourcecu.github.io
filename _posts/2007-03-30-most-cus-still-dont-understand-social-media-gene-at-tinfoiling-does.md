@@ -2,7 +2,7 @@
 
 layout: post
 title: "Most CUs don't grasp social media; Gene at Tinfoiling does."
-excerpt: 'Gene Blishen writes the <a href="http://tinfoiling.wordpress.com">Tinfoiling blog</a>.  He's the general manager of <a href="www.mtlehman.com">Mount Lehman Credit Union</a>, which he describes as "a small credit union just outside of Vancouver B.C. We live among the giants (Vancity, Coast Capital, Envision, Prospera). We are small but nimble and have a purposeful strategy – Serve the member."'
+excerpt: Gene Blishen writes the <a href="http://tinfoiling.wordpress.com">Tinfoiling blog</a> and is the general manager of <a href="www.mtlehman.com">Mount Lehman Credit Union</a>.
 legacy: true
 author:
   name: Trey Reeme
