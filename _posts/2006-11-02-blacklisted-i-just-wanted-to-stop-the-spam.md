@@ -2,7 +2,7 @@
 
 layout: post
 title: Blacklisted?  I just wanted to stop the spam
-excerpt: 'I clicked on the unsubscribe link as soon as I got the piece of spam, thinking I could spare my inbox from similar sales attempts.  Instead I was led through a process I understood as: either you continue to receive spam or you can't subscribe to our online publication at all.  (If only all decisions were this easy!)'
+excerpt: I clicked on the unsubscribe link as soon as I got the piece of spam, thinking I could spare my inbox from similar sales attempts. Instead I was led through a process I understood as&#58; either you continue to receive spam or you can't subscribe to our online publication at all.
 legacy: true
 author:
   name: Trey Reeme
