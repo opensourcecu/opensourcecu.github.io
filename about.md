@@ -32,4 +32,4 @@ permalink: /about/
 <p>We believe that the public &#8211; members and non-members alike &#8211; needs a better understanding of credit unions, and that it&#8217;s the responsibility of credit unions themselves to provide that education.</p>
 
 
-<p>This site thrives on community. If you&#8217;d like to be a contributing writer, please <a href="/contact">Contact Us</a>. The more heads, the better.</p>
+<p>This site thrives on community. The more heads, the better.</p>

@@ -2,7 +2,7 @@
 
 layout: post
 title: TechCrunch on ChangeEverything
-excerpt: 'Congrats to <a href="http://www.vancity.com">Vancity</a>, <a href="http://www.socialsignal.com">Social Signal</a>, and the rest of the <a href="http://changeeverything.ca">ChangeEverything</a> team for a stellar review on <a href="http://www.techcrunch.com">Techcrunch</a>.'
+excerpt: 'Congrats to Vancity, Social Signal, and the rest of the ChangeEverything team for a stellar review on Techcrunch.'
 legacy: true
 author:
   name: Trey Reeme
