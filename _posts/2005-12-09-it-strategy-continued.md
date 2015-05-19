@@ -3,6 +3,7 @@
 layout: post
 title: IT Strategy Continued
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme
