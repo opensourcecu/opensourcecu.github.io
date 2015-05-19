@@ -2,7 +2,7 @@
 
 layout: post
 title: Social lending arrives in US
-excerpt: ''
+excerpt: It's noteworthy because these are the first live instances of social lending in the US of which we've heard. 
 legacy: true
 author:
   name: Trey Reeme
