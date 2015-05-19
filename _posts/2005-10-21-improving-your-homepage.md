@@ -4,6 +4,7 @@ layout: post
 title: Improving your homepage
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

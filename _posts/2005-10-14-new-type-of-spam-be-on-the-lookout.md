@@ -4,6 +4,7 @@ layout: post
 title: New type of Spam - be on the lookout
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
