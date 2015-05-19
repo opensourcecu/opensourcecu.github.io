@@ -2,7 +2,7 @@
 
 layout: post
 title: Housing bubble?
-excerpt: ''
+excerpt: If the bubble bursts (just talking worst-case scenario here), what actions should a credit union take?  Is there a responsibility on the part of credit unions to warn/educate members if the economic indicators signal the worst-case scenario is inevitable?
 legacy: true
 author:
   name: Trey Reeme
