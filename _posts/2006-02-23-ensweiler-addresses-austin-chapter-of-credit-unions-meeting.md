@@ -2,7 +2,7 @@
 
 layout: post
 title: Ensweiler addresses Austin Chapter of Credit Unions meeting
-excerpt: ''
+excerpt: If you're not in the credit union industry, this would be the equivalent of Quincy Jones talking about the state of jazz production, and if you're not into jazz it's like your grandma talking about the state of warm apple pies.
 legacy: true
 author:
   name: Trey Reeme
