@@ -2,7 +2,7 @@
 
 layout: post
 title: 'CUES CEO Network: Speaking of Tech Trends ...'
-excerpt: 'In a session hosted by <a href="http://www.gonzobanker.com">Steve Williams</a>, mobile banking was hot.'
+excerpt: 'In a session hosted by Steve Williams, mobile banking was hot.'
 legacy: true
 author:
   name: Trey Reeme
