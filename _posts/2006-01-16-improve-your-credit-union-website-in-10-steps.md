@@ -2,7 +2,7 @@
 
 layout: post
 title: Improve your Credit Union website in 10 steps
-excerpt: ''
+excerpt: If you want to reach me, you've got to do it online.  Your outdated site has got to go.  It screams unprofessional.  Imagine me showing up in your lobby having not bathed or groomed myself in five years.
 legacy: true
 author:
   name: Trey Reeme
@@ -22,7 +22,7 @@ author:
 <ul>
 <li>Test your site on several browsers &#8211; including Firefox, Safari, and Opera &#8211; to make sure it works across the board for all users. Go through the site page by page with Firefox, in particular, as <a href='http://news.bbc.co.uk/1/hi/technology/4406204.stm'>more than 10% of Internet users are browsing with it</a>.  </li>
 <li>Change the resolution of your computer monitor to the highest setting allowed (right-click on your desktop and select Properties and then the Settings tab if you&#8217;re using Windows).  Many of your site&#8217;s visitors have already moved away from 800&#215;600 screen resolutions.  </li>
-<li>Take fifteen minutes to invent scenarios that would bring a member to your site.  After inventing, find the least technology-savvy person you know to perform those tests starting at the homepage.  Watch them closely as they browse.  Take notes on what confuses them.  Examples include: 
+<li>Take fifteen minutes to invent scenarios that would bring a member to your site.  After inventing, find the least technology-savvy person you know to perform those tests starting at the homepage.  Watch them closely as they browse.  Take notes on what confuses them.  Examples include:
 <ul>
 <li>&#8220;I&#8217;m looking for your savings rates.  After I find them, I&#8217;d like to apply for an account.&#8221; </li>
 <li>&#8220;I&#8217;m trying to get set up on the online banking tools, but have never done so before.  Oh yeah, it&#8217;s during off-hours so I can&#8217;t call your help desk for advice.&#8221;</li>
