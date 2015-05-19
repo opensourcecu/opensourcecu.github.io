@@ -2,17 +2,14 @@
 
 layout: post
 title: "Blogging for CUs: What's coming, Why, and How to get involved"
-excerpt: ''
+excerpt: What follows is part of an email conversation I've been having with the CEO of a credit union interested in launching a blog. Some great questions are brought up, and I'm going to do my best to answer them with this post.
 legacy: true
 author:
   name: Trey Reeme
   twitter: creeme
   bio: Cofounder and COO of Trabian
   image: authors/trey.png
-comments:
-  - author: Mike Shafer
-    body: "Trey, Thanks for answering the question so thoroughly. Your response reinforces my thinking that maybe a blog could be used as an alternative to reach those members who do not respond to traditional communication channels.\r\n\r\nI'm looking forward to talking with you about setting a blog up for our credit union."
-    date: 2005-11-08T07:42:50.000Z
+
 ---
 
 <p>What follows is part of an email conversation I&#8217;ve been having with the <span class='caps'><span class="caps">CEO</span></span> of a credit union interested in launching a blog. Some great questions are brought up, and I&#8217;m going to do my best to answer them with this post.  I&#8217;ve received permission to use this email to frame a conversation in which I&#8217;m hoping to get others involved.</p>
@@ -35,7 +32,7 @@ comments:
 <p>Remember when email just hit the mainstream?  The first time you set up Outlook and got a new message from a collegue &#8230; Or when you heard about online banking for the first time &#8230; Who would&#8217;ve guessed the Internet would come so far just ten years ago?</p>
 <p>I see blogging, like the author of the Wired piece, as indicative of the Culture of Participation that&#8217;s forming right before our eyes.  It&#8217;s a culture that&#8217;s beating traditional news outlets to breaking stories (forcing those outlets to blog themselves!).  It&#8217;s also a culture that&#8217;s numb to traditional marketing &#8211; skipping through commercials with TiVo and rendering pop-up Internet ads and spam email powerless.</p>
 <p>The culture of participation is even hitting the credit union/banking industry &#8211; not just in blogs, but in peer-to-peer lending.  It started with a British company called <a href='http://www.opensourcecu.com/articles/2005/08/16/online-money-exchange-zopa-making-headlines'>Zopa</a>, where people who are willing to invest become lenders and can choose to lend to riskier borrowers at higher rates or to more qualified borrowers at lower rates. Borrowers then browse available rates, and if there&#8217;s an agreement a loan is made.</p>
-A few days ago, I noticed a blog post about a <a href='http://www.robcottingham.ca/20051021/now-thats-what-i-call-social-capital/'>Canadian credit union offering peer-to-peer lending</a>.  That post cites <a href='https://www.vancity.com/MyBusiness/ProductsandServices/Borrowing/Loans/CommunityBusinessLoans/PeerLending/FAQ/'>Vancity Credit Union&#8217;s <span class='caps'><span class="caps">FAQ</span></span> page</a>, which reads: 
+A few days ago, I noticed a blog post about a <a href='http://www.robcottingham.ca/20051021/now-thats-what-i-call-social-capital/'>Canadian credit union offering peer-to-peer lending</a>.  That post cites <a href='https://www.vancity.com/MyBusiness/ProductsandServices/Borrowing/Loans/CommunityBusinessLoans/PeerLending/FAQ/'>Vancity Credit Union&#8217;s <span class='caps'><span class="caps">FAQ</span></span> page</a>, which reads:
 <blockquote><p>Group members approve each other&#8217;s loan requests and are collectively accountable for repaying the loans of all members within the group.</p><p>The group meets regularly, at least monthly, to support each other, to share each other&#8217;s success, to refer customers and to solve business problems. . . .</p><p>Initial loans, known as Level One, are for $1,000. Subsequent loan amounts increase to a maximum of $5,000. For Self-Employment Program graduates the first loan level is $2,000, subject to the completion of a business plan and support of self-employment benefits.</p><p>Terms range from 3 months to 24 months and interest rates are based on prime plus 3%.</p></blockquote>
 <p>I bring this up because without the Culture of Participation fueled by the Internet, this conversation couldn&#8217;t exist.  To borrow from Malcolm Gladwell, the Culture of Participation (and blogging in general) has reached a tipping point.</p>
 <p>Because the blogosphere is so open by its nature, it&#8217;s surprising to see which major companies have opened themselves up to it!  <a href='http://fastlane.gmblogs.com/'>General Motors</a>, <a href='http://www.cbsnews.com/sections/publiceye/main500486.shtml'><span class="caps">CBS</span> News</a>, the Dallas Cowboys through <a href='http://roger.staubach.com/'>Roger Staubach&#8217;s blog</a>, and even <a href='http://www.walmartfacts.com/stories/'>Wal-Mart</a>, just to name a few.</p>
@@ -60,7 +57,7 @@ A few days ago, I noticed a blog post about a <a href='http://www.robcottingham.
 <p>Blogging isn&#8217;t for everybody.  You&#8217;ve got to start out with the commitment to keep it current.  Expect to make a lot of posts first without getting many comments in return.  The good news is if it doesn&#8217;t work out, you can always make a final post that says, &#8220;We&#8217;re through with our blog experiment.  It didn&#8217;t work.  You can&#8217;t blame us for trying!&#8221;</p>
 <p>Before you start, subscribe to other blogs first &#8211; even leave some comments just to get the feel of it.  Google now has a free <span class='caps'><span class="caps">RSS</span></span> reader that you can try out at http://reader.google.com (it still has some little bugs, but hey it&#8217;s free).</p>
 <p>Posting regularly is important.  It doesn&#8217;t have to be everyday, but it&#8217;s a good idea to post at least weekly.  Remember to link to other blogs in your posts.  If you see a good idea on another blog, quote from it and discuss it.  Just think of it in the same way you did a college paper &#8211; you&#8217;ve got to cite, cite, cite!</p>
-<p>If you possess the patience to build up a reader base, you&#8217;ll find blogging is a great way to: 
+<p>If you possess the patience to build up a reader base, you&#8217;ll find blogging is a great way to:
 <ul>
 <li><a href='http://www.changethis.com/1.CustomerEvangelist'>Build customer (or in CU-speak, member) evangelists</a>.</li>
 <li>Reach out to your target demographic and build credibility with them.</li>
