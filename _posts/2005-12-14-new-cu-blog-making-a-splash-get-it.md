@@ -4,6 +4,7 @@ layout: post
 title: New CU blog making a splash (Get it?)
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
