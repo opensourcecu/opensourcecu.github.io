@@ -2,7 +2,7 @@
 
 layout: post
 title: '"One Love, One Heart, One Brand" (Jamaica Trip pt. III)'
-excerpt: ''
+excerpt: This is my final post on the Jamaican Credit Union Movement.
 legacy: true
 author:
   name: Brent Dixon
