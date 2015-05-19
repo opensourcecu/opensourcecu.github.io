@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Hot Topic: Serving Members of Modest Means'
-excerpt: ''
+excerpt: Credit unions started out as payday lenders, and along the way CUs got away from providing that service &#8211; but the need never went away, and predatory for-profit lenders stepped up to fill the void.  Speaking philosophically, credit unions should help protect the underserved from predatory lending by going back to offering a better solution.
 legacy: true
 author:
   name: Trey Reeme
@@ -15,7 +15,7 @@ comments:
     date: 2006-06-13T03:10:34.000Z
 ---
 
-<p>We&#8217;re at the conference&#8217;s halfway point, and I&#8217;ve heard more mention of serving members of modest means than any other topic.  I don&#8217;t think it&#8217;s just the <span class="caps">NCUA</span>&#8217;s data collection that&#8217;s fueling the conversation, either.</p>
+<p>We&#8217;re at the [CUNA] conference&#8217;s halfway point, and I&#8217;ve heard more mention of serving members of modest means than any other topic.  I don&#8217;t think it&#8217;s just the <span class="caps">NCUA</span>&#8217;s data collection that&#8217;s fueling the conversation, either.</p>
 <p>A larger fight against payday lenders is taking place in many state legislatures, the Hispanic population in the US is growing, and initiatives are gaining momentum within the industry like the <a href="http://www.tcul.coop">Texas Credit Union League&#8217;s</a> Juntos Avenzamos and <a href="http://www.filene.org">Filene&#8217;s</a> REAL Solutions project (disclosure: Filene is a Trabian client).</p>
 <p>I bring up Filene because I had the opportunity to sit in on Lois Kitsch&#8217;s presentation today on &#8220;Serving Members of Modest Means.&#8221; Lois is their Director of Field Projects, by the way.</p>
 <p>During Lois&#8217;s presentation, combating payday lenders and check cashing outlets was a major theme, as was reaching out to immigrants.  She pointed out that the average age of Hispanics in the US is 26 years old (where the average CU member age is around 47), and that Hispanics are largely unbanked.  I found it particularly interesting that a quarter of Bank of America&#8217;s new accounts last year were opened by Hispanics.</p>

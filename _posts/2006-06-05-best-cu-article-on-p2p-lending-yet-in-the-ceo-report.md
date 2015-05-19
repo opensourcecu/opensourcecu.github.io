@@ -2,7 +2,7 @@
 
 layout: post
 title: Best CU article yet on P2P lending in The CEO Report
-excerpt: ''
+excerpt: Whereas Prosper may compete directly with credit unions, U.K.-based Zopa will launch an American system as early as this summer and it hopes to partner directly with credit unions, says Wade Lagrone, VP of U.S. marketing for Zopa.
 legacy: true
 author:
   name: Trey Reeme
