@@ -2,7 +2,7 @@
 
 layout: post
 title: Second Life primer
-excerpt: 'Second Life was opened to the public in 2003, so it's not exactly new. However, its business implications have made for some explosive hype/conversation recently.'
+excerpt: Second Life was opened to the public in 2003, so it&#39;s not exactly new. However, its business implications have made for some explosive hype/conversation recently.
 legacy: true
 author:
   name: Brent Dixon
