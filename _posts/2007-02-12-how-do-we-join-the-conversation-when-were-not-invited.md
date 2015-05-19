@@ -2,7 +2,7 @@
 
 layout: post
 title: "How do we join the conversation when we're not invited?"
-excerpt: Brent and I were presented a tough dilemma after our social media roundtable last week from a CU that we&#39'll keep anonymous.
+excerpt: Brent and I were presented a tough dilemma after our social media roundtable last week from a CU that we&#39;ll keep anonymous.
 legacy: true
 author:
   name: Trey Reeme
