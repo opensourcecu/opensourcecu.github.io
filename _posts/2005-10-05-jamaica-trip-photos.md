@@ -2,7 +2,7 @@
 
 layout: post
 title: Jamaica Trip Photos
-excerpt: ''
+excerpt: I've uploaded a gallery with some of the photos from the Jamaica trip.
 legacy: true
 author:
   name: Brent Dixon
