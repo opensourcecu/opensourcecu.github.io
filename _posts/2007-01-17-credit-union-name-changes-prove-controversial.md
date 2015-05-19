@@ -2,7 +2,7 @@
 
 layout: post
 title: Credit union name changes prove controversial
-excerpt: ''
+excerpt: When does a CU name change make perfect sense and when does it make a mess?
 legacy: true
 author:
   name: Trey Reeme
