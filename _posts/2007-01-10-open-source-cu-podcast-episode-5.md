@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Open Source CU Podcast: Episode 5'
-excerpt: 'Update: (5/16/2015) Our original audio file of this podcast conveniently died with Odeo sometime over the last eight years. The transcript is all we have left, but it's a good one. Enjoy!'
+excerpt: What would you like to see most from credit unions in 2007?
 legacy: true
 author:
   name: Trey Reeme
