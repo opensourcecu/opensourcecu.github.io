@@ -4,6 +4,7 @@ layout: post
 title: All it took was a t-shirt
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
