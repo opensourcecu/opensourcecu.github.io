@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Godin: Clueless about customer experience?'
-excerpt: ''
+excerpt: Banks are notorious for not getting the &#8220;customer experience&#8221; part right; many credit unions excel at the &#8220;member experience&#8221; part but, arguably, not the marketing part.
 legacy: true
 author:
   name: Trey Reeme

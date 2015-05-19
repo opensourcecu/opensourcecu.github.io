@@ -4,6 +4,7 @@ layout: post
 title: "They're talking..."
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

@@ -4,6 +4,7 @@ layout: post
 title: 'Two CU-related blogs to check out!'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

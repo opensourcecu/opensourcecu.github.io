@@ -3,6 +3,7 @@
 layout: post
 title: Conference call with Guy Kawasaki
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme

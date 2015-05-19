@@ -4,6 +4,7 @@ layout: post
 title: 'Build a blog in five minutes. Go!'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

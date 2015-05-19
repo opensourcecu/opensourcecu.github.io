@@ -4,6 +4,7 @@ layout: post
 title: Practicing what we preach
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

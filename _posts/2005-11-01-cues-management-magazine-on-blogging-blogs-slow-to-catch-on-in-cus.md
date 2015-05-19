@@ -4,6 +4,7 @@ layout: post
 title: 'CUES Management Magazine on blogging: Blogs slow to catch on in CUs'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Matt Dean
   twitter: trabianmatt

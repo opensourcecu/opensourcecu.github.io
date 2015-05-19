@@ -4,6 +4,7 @@ layout: post
 title: Misleading headline about direct deposit grabbed my attention
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme
@@ -17,5 +18,5 @@ author:
 <p>The press release for the group that released the survey (<a href='http://www.godirect.org/Media.html'>GoDirect</a>, a campaign co-sponsored by the U.S. Department of the Treasury and the Federal Reserve Bank) points out that 59% of boomers do, in fact, trust direct deposit.  More importantly, this survey doesn&#8217;t refer to direct deposit of paychecks; as I understand it, the survey refers to using direct deposit for Social Security and other federal benefit checks only.</p>
 <p>This week&#8217;s <a href='http://www.cunews.com/'>Credit Union tech-talk</a> is much more straightforward in its coverage of the story:</p>
 <blockquote>
-<p>The federal government is trying to educate the public about the benefits of direct deposit via their &#8216;Go Direct&#8217; campaign. A recent survey sponsored by the Treasury Department and the Federal Reserve Banks shows that 72% of America&#8217;s seniors 65 and older use direct deposit, but only 59% of Americans aged 45-64 do so. The survey results show there is  a troubling difference etween today&#8217;s seniors and Baby Boomers that are preparing to retire, indicating significant cost and security implications, according to the report. These results are somewhat surprising when you consider that Baby Boomers are generally more comfortable with technology in general and online banking in particular than seniors.</p>
+<p>The federal government is trying to educate the public about the benefits of direct deposit via their &#8216;Go Direct&#8217; campaign. A recent survey sponsored by the Treasury Department and the Federal Reserve Banks shows that 72% of America&#8217;s seniors 65 and older use direct deposit, but only 59% of Americans aged 45-64 do so. The survey results show there is a troubling difference between today&#8217;s seniors and Baby Boomers that are preparing to retire, indicating significant cost and security implications, according to the report. These results are somewhat surprising when you consider that Baby Boomers are generally more comfortable with technology in general and online banking in particular than seniors.</p>
 </blockquote>

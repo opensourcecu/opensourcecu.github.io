@@ -2,7 +2,7 @@
 
 layout: post
 title: Is good web design important? You bet.
-excerpt: ''
+excerpt: A user gets his/her impression of the quality of your site in the first 50 milliseconds of viewing.
 legacy: true
 author:
   name: Matt Dean

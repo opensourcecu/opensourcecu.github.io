@@ -4,6 +4,7 @@ layout: post
 title: A few design changes
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Brent Dixon
   twitter: thehabdash

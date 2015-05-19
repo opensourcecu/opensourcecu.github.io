@@ -4,6 +4,7 @@ layout: post
 title: "Piggly Wiggly's biometric payment pads"
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

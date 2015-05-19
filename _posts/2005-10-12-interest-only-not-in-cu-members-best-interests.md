@@ -2,7 +2,7 @@
 
 layout: post
 title: "Interest-Only not in CU members' best interests"
-excerpt: ''
+excerpt: 61% of mortgages made in California this year were interest-only?!  Whoa.  That is one scary stat.
 legacy: true
 author:
   name: Trey Reeme

@@ -2,7 +2,7 @@
 
 layout: post
 title: Starting the Conversation
-excerpt: ''
+excerpt: Personal communication is by no means a new concept in the CU world. Credit union leaders just need to learn how to translate this to an online world.
 legacy: true
 author:
   name: Matt Dean
@@ -16,12 +16,7 @@ comments:
   - author: Matt Dean
     body: "When I spoke with Chris Choat a few days ago about this topic, he pointed out that they haven't noticed much of a drop in number of members visiting their branches. Even more interesting, the branch that's had the most activity is the HP branch, which would presumably be the branch serving their more tech-savvy members. I wish I would have asked him more about the demographics of that branch, but perhaps if he reads this post he can provide more details.\r\n\r\nOn the flip side of that, however, when we visited with U.S. Employees in Oklahoma City last year they mentioned that their lobby traffic had dropped significantly in the past few years even while overall business has increased. Perhaps the main difference with them is that their main office probably isn't in a very convenient location (it was fairly hard for us to find, but of course we're not that familiar with OKC ).\r\n\r\nI think there will always be a mix of in-branch, personal service and automated banking. However, I think that a growing percentage of members will be primarly using the online and automated banking channels.\r\n\r\nThe even more important need that I'm seeing, however, is for credit union leaders to start communicating the \"credit union difference\" to both members and non-members and begin engaging them in an active conversation. People my age don't know what makes credit unions different from banks. And yet there are many socially-aware people who want to be part of something they can believe in. The Internet is the perfect avenue for communicating that message."
     date: 2005-06-16T05:26:10.000Z
-  - author: Testing
-    body: testing
-    date: 2007-05-03T15:16:04.000Z
-  - author: Testing
-    body: Again
-    date: 2007-05-03T15:22:46.000Z
+
 ---
 
 <p>When the credit union movement was in its infancy, movement leaders like <a href='http://www.creditunion.coop/history/filene.html'>Edward Filene</a> were the CU equivalent of gospel evangelists, preaching the idea that common workers could band together to provide inexpensive credit while earning interest on their savings. Their message was well-received. Members didn&#8217;t just understand why they belonged to their credit union, they spread the message themselves, converting their friends, their co-workers and their families.</p>

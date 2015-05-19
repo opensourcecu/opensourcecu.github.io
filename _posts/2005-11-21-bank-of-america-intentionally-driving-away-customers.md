@@ -3,6 +3,7 @@
 layout: post
 title: Bank of America intentionally driving away customers?
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme

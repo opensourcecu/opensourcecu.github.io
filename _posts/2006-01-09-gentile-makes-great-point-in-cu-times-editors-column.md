@@ -2,7 +2,7 @@
 
 layout: post
 title: "Gentile makes great point in CU Times Editor's Column"
-excerpt: ''
+excerpt: In the January 4th edition of Credit Union Times, Editor-in-Chief Paul Gentile argues the "Timing Couldn't Be Better for a Strong Branding Campaign."
 legacy: true
 author:
   name: Trey Reeme

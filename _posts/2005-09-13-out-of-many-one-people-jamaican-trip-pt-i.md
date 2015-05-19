@@ -2,7 +2,7 @@
 
 layout: post
 title: '"Out of many, one people" (Jamaican Trip pt. I)'
-excerpt: ''
+excerpt: Thanks in large part to a recent partnership between the Texas Credit Union League and the Jamaican Credit Union League (and specifically a partnership between Energy Capital Credit Union and Kirkvine Co-operative Credit Union), I had the opportunity to travel to Jamaica for a week, visit several of its credit unions, and meet with the president of the League, Mr. Glen Francis.
 legacy: true
 author:
   name: Brent Dixon
@@ -12,7 +12,7 @@ author:
 ---
 
 <p>It breaks my heart to say it, but I&#8217;m back in the States. Goodbye fresh fruit and accommodating people at every turn, hello guy-honking-as-soon-as-the-traffic-light-turns-green and 49-cent hotdogs in my freezer.</p>
-<p>From the very beginning, Carl Grant (our host, and <span class='caps'><span class="caps">CEO</span></span> of Kirkvine <span class='caps'><span class="caps">CCU</span></span>, as previously mentioned) made it very clear that we were to see the &#8220;Real Jamaica.&#8221; During this trip, the real Jamaica included, but was not limited to: 
+<p>From the very beginning, Carl Grant (our host, and <span class='caps'><span class="caps">CEO</span></span> of Kirkvine <span class='caps'><span class="caps">CCU</span></span>, as previously mentioned) made it very clear that we were to see the &#8220;Real Jamaica.&#8221; During this trip, the real Jamaica included, but was not limited to:
 <ul>
 <li>Roadside fruit stands, each featuring fruit I had never previously heard of, much less tried.</li>
 <li>A southern fishing village with the best restaurant in the entire world.</li>
@@ -34,7 +34,7 @@ author:
 <p>The unification even goes beyond that of members into credit unions. The credit unions of Jamaica are all unified under the umbrella of the Jamaican Co-operative Credit Union League (JCCUL), whose General Manager, Mr. Glen Francis, was kind enough to meet with us at their Kingston headquarters.</p>
 <p>The  <span class='caps'><span class="caps">JCCUL</span></span> has the responsibility of handling all Jamaican credit unions&#8217; regulations, liquidity needs, support, standards, training and even marketing materials, effectively making it the Jamaican equivalent of the <span class='caps'><span class="caps">NCUA</span></span>, Corporate Central Credit Union, and the individual credit union leagues. This centralized leadership has translated into Jamaican credit unions being viewed by the nation more as one large entity, as opposed to a cluster of individual institutions.  Each credit union displays the World Council of Credit Unions logo as its own, the only credit union to steer away from that is <span class='caps'><span class="caps">COK</span> </span>(City of Kingston) Credit Union, a mammoth of 100,000 members. As you can imagine, a common brand for all Jamaican credit unions has both its ups and downs. More on that later.</p>
 <p><strong><span class="caps">QNET</span></strong></p>
-<p>The <span class='caps'><span class="caps">JCCUL</span></span> is in the process of implementing a new tool that will make collaboration  between credit unions even simpler. The tool is called <span class="caps">QNET</span> which stands for &#8220;Quality Network Co-operative Limited.&#8221; The <span class='caps'><span class="caps">QNET</span></span> will include nationally-synced tools for that include, but again are not limited to: 
+<p>The <span class='caps'><span class="caps">JCCUL</span></span> is in the process of implementing a new tool that will make collaboration  between credit unions even simpler. The tool is called <span class="caps">QNET</span> which stands for &#8220;Quality Network Co-operative Limited.&#8221; The <span class='caps'><span class="caps">QNET</span></span> will include nationally-synced tools for that include, but again are not limited to:
 <ul>
 <li>data storage </li>
 <li>online and telephone banking </li>

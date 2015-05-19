@@ -4,6 +4,7 @@ layout: post
 title: TiVo builds user community.  I want schwag.
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Trey Reeme
   twitter: creeme

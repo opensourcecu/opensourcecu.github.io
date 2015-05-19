@@ -3,6 +3,7 @@
 layout: post
 title: 'Way to go, West Texas Credit Union!'
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme

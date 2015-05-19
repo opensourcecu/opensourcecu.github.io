@@ -2,7 +2,7 @@
 
 layout: post
 title: Priority Number One
-excerpt: ''
+excerpt: When Debbie Matz addressed the Mountain Regional Credit Union Roundtable this week, she told the nearly 100 CU officials gathered there, "When you adopt best practices and share them with others, you can overcome all of the concerns for the future of credit unions. You can reach new members of all ages and all ethnic groups, help small credit unions grow and thrive, uphold credit unions' pro-consumer reputation, and continue to earn your tax exemption by serving people of modest means."
 legacy: true
 author:
   name: Trey Reeme
@@ -10,20 +10,13 @@ author:
   bio: Cofounder and COO of Trabian
   image: authors/trey.png
 comments:
-  - author: Trey Reeme
-    body: "I found this <a href=\"http://www.businessweek.com/magazine/content/05_18/b3931001_mz001.htm\">Business Week article</a> today via an iMedia Connection article, <a href=\"http://www.imediaconnection.com/content/6163.asp\">Customer Relationships are Fundamental</a>.  Both are solid starting points for anyone who's wondering, \"What's all this blog fuss about?\"\r\n\r\nI know I've heard Matt mention the Business Week article in conversation before and now I know why."
-    date: 2005-06-20T05:32:12.000Z
   - author: Matt Dean
     body: >-
       Business Week has done a great job writing about the fundamental shift in
       cooperation and collaboration that the Internet is enabling. I picked up
       the latest edition at the airport on the way back from Vancouver, and the
-      cover story was ‚ÄúThe Power of Us,‚Äù discussing the rise of ‚Äúmass
-      collaboration on the Internet.‚Äù
-
-
-
-      It was a great article. And now I‚Äôm a subscriber!
+      cover story was "The Power of Us," discussing the rise of "mass
+      collaboration on the Internet."
     date: 2005-06-23T05:34:56.000Z
 ---
 

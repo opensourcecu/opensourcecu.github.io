@@ -2,7 +2,7 @@
 
 layout: post
 title: '"One Love, One Heart, One Brand" (Jamaica Trip pt. III)'
-excerpt: ''
+excerpt: Thanks in large part to a recent partnership between the Texas Credit Union League and the Jamaican Credit Union League (and specifically a partnership between Energy Capital Credit Union and Kirkvine Co-operative Credit Union), I had the opportunity to travel to Jamaica for a week, visit several of its credit unions, and meet with the president of the League, Mr. Glen Francis.
 legacy: true
 author:
   name: Brent Dixon

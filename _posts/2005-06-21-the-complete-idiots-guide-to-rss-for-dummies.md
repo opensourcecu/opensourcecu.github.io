@@ -3,6 +3,7 @@
 layout: post
 title: "The Complete Idiot's Guide to RSS...for Dummies"
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Brent Dixon
