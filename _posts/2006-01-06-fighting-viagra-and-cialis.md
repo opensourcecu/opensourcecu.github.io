@@ -3,6 +3,7 @@
 layout: post
 title: Fighting Viagra and Cialis
 excerpt: ''
+draft: true
 legacy: true
 author:
   name: Trey Reeme
