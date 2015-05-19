@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Open Source CU Podcast: Episode 6'
-excerpt: ''
+excerpt: What would you like to see most from credit unions in 2007?
 legacy: true
 author:
   name: Trey Reeme
@@ -31,11 +31,7 @@ comments:
 ---
 
 <p>&#8220;What would you like to see most from credit unions in 2007?&#8221;</p>
-<embed src="http://odeo.com/flash/audio_player_gray.swf" quality="high" width="322" height="54" name="odeo_player_gray" align="middle" allowScriptAccess="always" wmode="transparent"  type="application/x-shockwave-flash" flashvars="type=audio&#38;id=6908123" pluginspage="http://www.macromedia.com/go/getflashplayer" /></embed><br /><a style="font-size: 9px; padding-left: 110px; color: #f39; letter-spacing: -1px; text-decoration: none" href="http://odeo.com/audio/6908123/view">powered by <strong><span class="caps">ODEO</span></strong></a>
-<p>We&#8217;re continuing our series tackling the question, and in this second installment you&#8217;ll hear from:</p>
-<ul><li><a href="http://filene.org/home/about/staff/gabel">Denise Gabel</a>, Chief Innovation Officer of the <a href="http://www.filene.org">Filene Research Institute</a> (I mistakenly said &#8220;Director of Innovation&#8221; in the podcast &#8211; sorry, Denise!)</li><li><a href="http://filene.org/home/about/staff/hofheimer">George Hofheimer</a>, Chief Research Officer of the <a href="http://www.filene.org">Filene Research Institute</a></li><li>and <a href="http://filene.org/home/about/staff/meyer">Mark Meyer</a>, Executive Director and <span class="caps">CEO</span> of the <a href="http://www.filene.org">Filene Research Institute</a></li></ul>
-<p>On our upcoming podcasts, you&#8217;ll hear from Shari Storm of <a href="http://www.veritycu.org">Verity Credit Union</a>, <a href="http://www.dougtrue.net">Doug True</a> of <a href="http://www.forumsolutions.com"><span class="caps">FORUM</span> Solutions</a>, <a href="http://obr.typepad.com">Jim Bruene</a> of the <a href="http://www.onlinebankingreport.com">Online Banking Report</a>, Ben Rogers from <a href="http://cuceo.com">The <span class="caps">CEO</span> Report</a>,  and Kevin Davies of <a href="http://www.cues.org"><span class="caps">CUES</span></a>.</p>
-<p>After you give it a listen, leave a comment below or on our audio comments line at (206) 350-OSCU (6728).  You can subscribe in iTunes <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=192789928">here</a> or download the podcast <a href="http://media.libsyn.com/media/opensourcecu/OpenSourceCU_Podcast6.mp3">here</a>.</p>
+<p><em>Update: (5/16/2015) Our original audio file of this podcast conveniently died with Odeo sometime over the last eight years. The transcript is all we have left, but it's a good one. Enjoy!</em></p>
 <h3>Here&#8217;s the transcript:</h3>
 <p><strong>Denise Gabel</strong>:  A new year is always a time of personal reflection, a time to look in the mirror, take a personal inventory, own what you own and commit to change the things that you can.  My wish for credit unions follows the same personal reflection philosophy and identifies three key areas.</p>
 <p><em>Number 1</em>:  Watch what you eat.  What we eat (read) does make a difference in the way we think and act. Consider changing your monthly subscriptions to those publications, podcasts, or listservs that you don&#8217;t normally read.  For magazines: perhaps the Economist, Fast Company, or even a teen magazine.  For the web: perhaps Trendwatch, or better yet, set aside some quality time to simply surf the internet and see what&#8217;s going on in the marketplace outside your circle.  Again, we are what we eat.</p>
