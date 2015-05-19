@@ -2,7 +2,7 @@
 
 layout: post
 title: What Movement?
-excerpt: 'Credit unions, if you're a movement, why do 90% of you communicate yourselves as a commodity? Why have I never seen a single piece of consumer-side credit union marketing that mentions your movement? And more importantly, what are you doing to fuel that movement? What are you afraid of?'
+excerpt: Credit unions, if you&#39;re a movement, why do 90% of you communicate yourselves as a commodity? Why have I never seen a single piece of consumer-side credit union marketing that mentions your movement? And more importantly, what are you doing to fuel that movement? What are you afraid of?
 legacy: true
 author:
   name: Brent Dixon
