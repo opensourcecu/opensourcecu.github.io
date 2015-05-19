@@ -2,7 +2,7 @@
 
 layout: post
 title: "Into the lion's den"
-excerpt: ''
+excerpt: In a couple of weeks, business is going to take Matt, Trey and me to Salt Lake City, Utah. I mentioned this to my dad, who is very down with credit unions himself.
 legacy: true
 author:
   name: Brent Dixon
