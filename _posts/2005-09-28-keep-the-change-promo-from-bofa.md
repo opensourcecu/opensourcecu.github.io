@@ -2,7 +2,7 @@
 
 layout: post
 title: Keep the Change promo from BofA
-excerpt: ''
+excerpt: They&#8217;re starting a program called &#8220;Keep the Change&#8221; (I believe; I couldn&#8217;t find <em>anything</em> about it on their website or through Google search, Google blogsearch, etc.).
 legacy: true
 author:
   name: Trey Reeme
