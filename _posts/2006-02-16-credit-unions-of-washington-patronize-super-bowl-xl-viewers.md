@@ -2,7 +2,7 @@
 
 layout: post
 title: Credit Unions of Washington patronize Super Bowl XL viewers
-excerpt: ''
+excerpt: In summary: two guys rap, in limerick, on the joys of joining a credit union. One with an obligatory hair pick, and the other with obligatory earrings and backwards cap. Both with obligatory head bobs and urban hand gestures.
 legacy: true
 draft: true
 author:
