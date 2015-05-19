@@ -2,7 +2,7 @@
 
 layout: post
 title: Online money exchange Zopa making headlines
-excerpt: ''
+excerpt: According to their website, people who are willing to invest become Zopa lenders and can choose to lend to riskier borrowers at higher rates or to more qualified borrowers at lower rates.
 legacy: true
 author:
   name: Trey Reeme
