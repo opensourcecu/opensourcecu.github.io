@@ -34,7 +34,7 @@ comments:
     date: 2007-04-28T02:29:49.000Z
 ---
 
-<p><img src='http://cu.trabian.com/trabian/internalprojectsandmisccommunication/wacu_rap.jpg' class="right"/></p>
+<p><img src='/images/legacy/wacu_rap.jpg' class="right"/></p>
 <p>This is semi-old news by now, but if you haven&#8217;t seen or heard about the Super Bowl spot run by the <a href='http://togetherbetter.com/'>Credit Unions of Washington</a>, let me go ahead and be the first to tell you that it set the credit union image back by a good decade or two.</p>
 <p>In summary: two guys rap, in limerick, on the joys of joining a credit union. One with an obligatory hair pick, and the other with obligatory earrings and backwards cap. Both with obligatory head bobs and urban hand gestures. All of this enhanced by video production comparable to a 1983 McDonald&#8217;s employee training video.</p>
 <p>Who was the target market? Surely not Generation Xers and older, who may at best have smiled as they thought of the Sugarhill Gang&#8217;s &#8220;<a href='http://en.wikipedia.org/wiki/Rapper%27s_Delight'>Rapper&#8217;s Delight</a>,&#8221; which also featured a video of awkward guys doing awkward dances, before they became distracted and then annoyed by that white guy&#8217;s hubcap-sized gold medallion.</p>

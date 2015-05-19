@@ -31,7 +31,7 @@ author:
 <p>2. <strong>Compare your print marketing pieces (including Annual Reports, credit card designs, billboards, etc.) to the look and feel of your website.</strong>  If the styles don&#8217;t match, they should.  Sending a consistent brand message is crucial.</p>
 <p>3. <strong>If anything on your website (1) blinks off and on or (2) is animated to scroll across the screen from right to left, remove the animation.</strong>  That&#8217;s fine for your in-branch <span class='caps'><span class="caps">LED</span></span> displays but it&#8217;s one of the worst things you can do to your website.  Why? It distracts from your message, clutters up your site, and is a dated design technique (see example below in 3a).  Plus it&#8217;s just plain annoying; it would be like a teller going &#8220;Hey! Hey! Hey! Hey! Hey! Hey!&#8221; inside of a branch.</p>
 <p>3a.  <strong>The waving American Flag animated <span class='caps'><span class="caps">GIF</span></span> circa 1996 (see below) must go bye-bye.</strong>  Using a still image of an American Flag in your marketing materials is fine; it&#8217;s the animated <span class='caps'><span class="caps">GIF</span></span> that isn&#8217;t.</p>
-<p><img src='http://cu.trabian.com/trabian/opensourcecu/usaCa.gif' alt=''/></p>
+<p><img src='/images/legacy/usaCa.gif' alt=''/></p>
 <p>4. <strong>Cut the fluff.</strong>  Keep your content as short and sweet as possible.</p>
 <p>5. <strong>Don&#8217;t underline anything that&#8217;s not a link.</strong></p>
 <p>6. <strong>Teenage members should never be called &#8220;kids.&#8221;</strong></p>

@@ -15,7 +15,7 @@ comments:
     body: |-
       We are now accepting orders:
 
-      <img src="http://cu.trabian.com/trabian/opensourcecu/oscu_butterflymug.jpg" />
+      <img src="/images/legacy/oscu_butterflymug.jpg" />
     date: 2006-04-18T16:08:01.000Z
   - author: Brent
     body: '"This site":http://www.gam-robert.com/, for example, grounded a lot of butterflies.'

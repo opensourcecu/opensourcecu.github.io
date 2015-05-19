@@ -83,7 +83,7 @@ comments:
     date: 2007-04-10T03:42:27.000Z
 ---
 
-<p><a href="https://www.coastcapitalsavings.com"><img src="http://cu.trabian.com/trabian/internalprojectsandmisccommunication/Coast_ss.jpg" style="float:right; border: 2px solid #999999; margin: 4px;"></a>We stumbled upon the new website for a Canadian credit union yesterday.  It&#8217;s for <a href="https://www.coastcapitalsavings.com/">Coast Capital Savings</a>, and it&#8217;s <em>hands down</em> in the top 1% of credit union sites (and CU marketing in general, for that matter).</p>
+<p><a href="https://www.coastcapitalsavings.com"><img src="/images/legacy/Coast_ss.jpg" style="float:right; border: 2px solid #999999; margin: 4px;"></a>We stumbled upon the new website for a Canadian credit union yesterday.  It&#8217;s for <a href="https://www.coastcapitalsavings.com/">Coast Capital Savings</a>, and it&#8217;s <em>hands down</em> in the top 1% of credit union sites (and CU marketing in general, for that matter).</p>
 <p>Here&#8217;s the conversation we had internally yesterday about the site. (Brent didn&#8217;t type his thoughts out, but he was quite impressed.  I&#8217;m sure he&#8217;ll leave something in the comments.)</p>
 <h3>Matt&#8217;s opinion:</h3>
 <p>The more I look at this, the more impressed I am. Take a look at the <a href="https://www.coastcapitalsavings.com/Online_Banking/">Online Banking</a> page.</p>
