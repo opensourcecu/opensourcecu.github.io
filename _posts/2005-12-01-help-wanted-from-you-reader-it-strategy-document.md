@@ -4,6 +4,7 @@ layout: post
 title: 'Help wanted (from YOU, reader): IT Strategy Document'
 excerpt: ''
 legacy: true
+draft: true
 author:
   name: Doug Williams
 comments:
