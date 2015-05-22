@@ -36,7 +36,6 @@
     border-bottom: 1px solid;
     display: inline-block;
     font-family: $sans-serif;
-    font-size: 0.7em;
     font-weight: 600;
     margin-bottom: 2em;
     padding: 0.1em 0;
@@ -83,7 +82,6 @@
    font-weight: 600;
    line-height: 1.4em;
    margin-bottom: 0.5em;
-   text-transform: uppercase;
   }
 
   &-date {
@@ -142,10 +140,49 @@
 
   ul {
     @extend %default-ul;
+    margin-bottom: 1.5em;
   }
 
   .twitter-tweet {
     margin-bottom: 1.5em !important;
+  }
+
+  $badge-font-size: 0.75em !default;
+  $medium-gray: #999 !default;
+  $alert-color: #fff6bf !default;
+  $error-color: #fbe3e4 !default;
+  $notice-color: #e5edf8 !default;
+  $success-color: #e6efc2 !default;
+
+  @mixin badge($color: $medium-gray) {
+    background-color: $color;
+    border-radius: $badge-font-size * 5;
+    color: darken($color, 60%);
+    display: inline-block;
+    font-size: $badge-font-size;
+    font-weight: 600;
+    line-height: 1;
+    padding: 0.4em 1.2em;
+  }
+
+  .badge {
+    @include badge;
+  }
+
+  .badge-alert, .badge-yellow  {
+    @include badge($alert-color);
+  }
+
+  .badge-error, .badge-red {
+    @include badge($error-color);
+  }
+
+  .badge-notice, .badge-blue {
+    @include badge($notice-color);
+  }
+
+  .badge-success, .badge-green {
+    @include badge($success-color);
   }
 
 }
