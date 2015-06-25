@@ -2,7 +2,7 @@
 
 layout: post
 title: "Preparing for Prototyping"
-excerpt: In this important stage of product design, when working with your development resources, here's what to bring.
+excerpt: In this important stage of product design, when working with your development resources here's what to bring.
 legacy: false
 author:
   name: Trey Reeme
