@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Weekly Technology Deep-Dive: The CSS Edition"
+title: "Technology Deep-Dive: The CSS Edition"
 excerpt: We're passionate about our craft and spend significant time and effort exploring the (near) future of web and mobile development. We'd like to share the results of that research in hopes that we can learn together.
 legacy: false
 author:
@@ -13,8 +13,8 @@ author:
 
 As Trey mentioned in [Dusting off Open Source CU](/2015/05/19/back/), we want Open Source CU to serve as a platform for discussing technology trends and sharing code in addition to more strategic discussions. We're passionate about our craft and spend significant time and effort exploring the (near) future of web and mobile development. Over time we'll present this research within the context of building high-quality member experience and show how these pieces fit together, but we also want to engage those who are building the next generation of banking.
 
-This week our focus is on some of the changes happening in the world of CSS. Here are some articles we found interesting:
-  
+In this post our focus is on some of the changes happening in the world of CSS. Here are some articles we found interesting:
+
 - ### [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) <span class="badge-blue">CSS</span> <span class="badge-blue">React</span> <span class="badge-blue">Webpack</span>
 
   Organizing CSS becomes more difficult as the size of the user interface increases, and this seems like an interesting way to reduce the complexity, particularly when combined with [React](http://facebook.github.io/react/) (we'll be talking more about React in the future).
