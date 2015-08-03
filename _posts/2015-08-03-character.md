@@ -14,7 +14,7 @@ author:
 
 I once worked in an organization whose CEO repeated in 90% of meetings he attended, “People don’t want auto loans; they want a car.” He also loved making exceptions at the front-line, lending on character over credit score alone.
 
-[Upstart](https://www.upstart.com/) reminds me of that CEO and his mantra, as Upstart's model focuses on a borrower’s potential in addition to past.
+[Upstart](https://www.upstart.com/) reminds me of that CEO and his mantra in two ways. First, Upstart focuses on what a borrower wants to do with the funds before focusing on the loan itself. Second, Upstart focuses on a borrower’s potential in addition to past.
 
 If you remember from the first day of lending school, *Character* is first among the “Four C’s of Credit”.
 
