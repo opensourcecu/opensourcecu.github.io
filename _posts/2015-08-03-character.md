@@ -2,7 +2,7 @@
 
 layout: post
 title: "Things we like: Upstart"
-excerpt: I once worked in an organization whose CEO emphatically repeated in 95% of meetings where loans were discussed, “People don’t want auto loans; they want a car.” He also loved making exceptions at the front-line, lending on character over credit score alone.
+excerpt: I once worked in an organization whose CEO repeated in 90% of meetings he attended, “People don’t want auto loans; they want a car.” He also loved making exceptions at the front-line, lending on character over credit score alone.
 legacy: false
 draft: false
 author:
