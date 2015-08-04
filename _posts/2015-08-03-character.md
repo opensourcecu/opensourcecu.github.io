@@ -2,7 +2,7 @@
 
 layout: post
 title: "Things we like: Upstart"
-excerpt: I once worked in an organization whose CEO repeated in 90% of meetings he attended, “People don’t want auto loans; they want a car.” He also loved making exceptions at the front-line, lending on character over credit score alone.
+excerpt: I once worked in an organization whose CEO repeated in 90% of meetings he attended, “People don’t want auto loans; they want cars.” He also loved making exceptions at the front-line, lending on character over credit score alone.
 legacy: false
 draft: false
 author:
@@ -12,7 +12,7 @@ author:
   image: authors/trey.png
 ---
 
-I once worked in an organization whose CEO repeated in 90% of meetings he attended, “People don’t want auto loans; they want a car.” He also loved making exceptions at the front-line, lending on character over credit score alone.
+I once worked in an organization whose CEO repeated in 90% of meetings he attended, “People don’t want auto loans; they want cars.” He also loved making exceptions at the front-line, lending on character over credit score alone.
 
 [Upstart](https://www.upstart.com/) reminds me of that CEO and his mantra in two ways. First, Upstart focuses on what a borrower wants to do with the funds before focusing on the loan itself. Second, Upstart focuses on a borrower’s potential in addition to past.
 
