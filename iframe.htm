@@ -1,0 +1,28 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="/assets/stylesheets/iframe.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <script src="/assets/javascripts/pym.js"></script>
+  </head>
+  <body>
+      {% for post in site.posts limit:3 %}
+      {% unless post.draft %}
+        <h3><a href="http://opensourcecu.com/{{ post.url }}" target="_blank">{{ post.title}}</a>&nbsp;&nbsp;<span class="meta">{{ post.date | date: "%a, %e %b %Y" }}</h3>
+        {{ post.excerpt }}&nbsp;<a href="http://opensourcecu.com/{{ post.url }}" target="_blank">&nbsp;&raquo;</a>
+      {% endunless %}
+      {% endfor %}
+      <br />
+      <br />
+      <script>
+        var pymChild = new pym.Child();
+        pym.Child({ polling: 500 });
+      </script>
+      </script>
+  </body>
+</html>
+
