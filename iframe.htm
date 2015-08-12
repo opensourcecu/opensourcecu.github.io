@@ -10,7 +10,7 @@ layout: null
     <script src="/assets/javascripts/pym.js"></script>
   </head>
   <body>
-      {% for post in site.posts limit:4 %}
+      {% for post in site.posts limit:3 %}
       {% unless post.draft %}
         <h3><a href="http://opensourcecu.com/{{ post.url }}" target="_blank">{{ post.title}}</a>&nbsp;&nbsp;<span class="meta">{{ post.date | date: "%a, %e %b %Y" }}</h3>
         {{ post.excerpt }}&nbsp;<a href="http://opensourcecu.com/{{ post.url }}" target="_blank">&nbsp;&raquo;</a>
