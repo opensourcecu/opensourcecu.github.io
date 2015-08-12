@@ -1,0 +1,35 @@
+@import url("//fonts.googleapis.com/css?family=Roboto+Slab:400,700")
+@import url("//fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,700italic")
+
+$sans: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif
+$mono: Monaco, Consolas, "Lucida Console", monospace
+$slab: "Roboto Slab", Rockwell, serif
+
+$black: #333
+$blue: #428bca
+$gray: #d5d6d5
+$gray-dark: #6E6E6E
+$red-highlight: #d92a2a
+$red: #b23636
+$white: #fff
+
+h1, h2, h3
+  color: $blue
+  font-family: $slab
+  font-weight: 400
+  margin-bottom: 0
+  .meta
+    font-size: 75%
+    color: $gray
+
+
+a
+  text-decoration: none
+  color: $gray
+  &:visited, &:hover, &:active
+    color: $blue
+
+body
+  font-family: $sans
+  font-weight: 300
+  color: $white
