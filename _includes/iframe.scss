@@ -28,8 +28,11 @@ h1, h2, h3 {
 a {
   text-decoration: none;
   color: $gray;
-  &:visited, &:hover, &:active {
+  &:hover, &:active {
     color: $blue;
+  }
+  &:visited {
+    color: $gray;
   }
 }
 
