@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Upcoming Event - Innovate and Create: See Ideas Come Alive
+title: Upcoming Event: Innovate & Create
 
 excerpt: Join the Filene Research Institute and Trabian for an interactive two-day innovation and prototyping session in Chicago on December 16 and 17.
 
