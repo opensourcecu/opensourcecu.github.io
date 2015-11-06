@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Ratings and customer power"
+title: "Ratings and Customer Power"
 excerpt: "Via a thought-provoking piece on The Verge, a look at customer power in our ratings-happy culture."
 legacy: false
 draft: false
