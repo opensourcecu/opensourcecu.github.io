@@ -2,7 +2,7 @@
 
 layout: post
 title: "The problem with regulation"
-excerpt: "There\'s no doubt that it\'s incredibly difficult to start a credit union in the US \-\- and even harder for it to succeed. Why are we surprised?"
+excerpt: "There's no doubt that it's incredibly difficult to start a credit union in the US and even harder for it to succeed. Why are we surprised?"
 legacy: false
 draft: false
 author:
