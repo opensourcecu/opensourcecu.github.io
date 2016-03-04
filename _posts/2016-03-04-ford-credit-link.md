@@ -2,7 +2,7 @@
 
 layout: post
 title: "Things we like: Ford Credit Link"
-excerpt: "Ford Credit Link has the automaker tapping into the Sharing Economy with an app that allows up to six co\-lessees to share the lease cost, reserve the car, and split the payment among the group."
+excerpt: Ford Credit Link has the automaker tapping into the Sharing Economy with an app that allows up to six co\-lessees to share the lease cost, reserve the car, and split the payment among the group.
 legacy: false
 draft: false
 author:
